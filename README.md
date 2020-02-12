@@ -24,12 +24,19 @@ Test1 (ROC)
 https://snakemake.readthedocs.io/en/stable/getting_started/installation.html
 
 3. cd Test1_ROC_multiple_methods
+
 edit your config.yaml
+
 edit snakemake_icore.json
+
 run the test:
+
 bash run_snakemake_ROC_multiple.sh
+
 to track the running, check the files:
+
 nohup.out
+
 logs\*.log
 
 The results will appear in Test1_ROC_multiple_methods\Results
@@ -42,13 +49,21 @@ Test2 (ES)
 https://snakemake.readthedocs.io/en/stable/getting_started/installation.html
 
 3. cd Test2_ES_gene_sets
+
 edit your config.yaml
+
 edit snakemake_ES_with_random_icore.json
+
 run the test:
+
 bash run_snakemake_zscores.sh
+
 to track the running, check the files:
+
 zscores_snakemake.out
+
 logs\*.log
+
 
 The results will appear in Test2_ES_gene_sets\Results
 
