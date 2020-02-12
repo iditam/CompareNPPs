@@ -1,0 +1,25 @@
+dataFolder : "../NPP_data"
+queryGenome : "Homo_sapiens"
+queryGenomeId : "9606"
+nppFilePrefix : "Homo_sapiens_NPP"
+bitscoresFolder : "../NPP_data/UniProt_bitscores"
+
+NPP_resource : "UniProt"
+
+# thresholds  : [ "below_50_becomes_1", "no_threshold", "threshold_20.4", "late_flooring_0.01", "threshold_20.4_after_zscore"]
+# transformations : [ "log2", "one_divide_sqrt", "one_divide_x"]
+# divide_by_query_list : [ "nodivide", "divide" ]
+# colzscore_list : ["nocolzscore", "colzscore"]
+
+thresholds  : [ "threshold_20.4"]
+transformations : [ "no_transform"]
+divide_by_query_list : [ "divide" ]
+colzscore_list : [ "colzscore" ]
+
+combinations_list_file : "combinations_no_transform.csv"
+temp_combinations_list_file : "combinations_no_transform_temp.csv"
+combinations_details_file : "combinations_no_transform_details.csv"
+
+species_list_file : "UniProtSpecies_ordered_062018.csv"
+
+protein2gene_dict : "../NPP_data/Homo_sapiens_uniprot_id2gene_062018.csv"

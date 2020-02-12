@@ -1,0 +1,299 @@
+name,name_in_kegg,map_id,classes,main_class
+NEUROACTIVE_LIGAND_RECEPTOR_INTERACTION,Neuroactive ligand-receptor interaction,path:map04080,Environmental Information Processing; Signaling molecules and interaction,Environmental Information Processing
+CYTOKINE_CYTOKINE_RECEPTOR_INTERACTION,Cytokine-cytokine receptor interaction,path:map04060,Environmental Information Processing; Signaling molecules and interaction,Environmental Information Processing
+RIBOSOME,Ribosome biogenesis in eukaryotes,path:map03008,Genetic Information Processing; Translation,Genetic Information Processing
+SPLICEOSOME,Spliceosome,path:map03040,Genetic Information Processing; Transcription,Genetic Information Processing
+ALCOHOLISM,Alcoholism,path:map05034,Human Diseases; Substance dependence,Human Diseases
+AMINOACYL_TRNA_BIOSYNTHESIS,Aminoacyl-tRNA biosynthesis,path:map00970,Genetic Information Processing; Translation,Genetic Information Processing
+VALINE_LEUCINE_AND_ISOLEUCINE_DEGRADATION,"Valine, leucine and isoleucine degradation",path:map00280,Metabolism; Amino acid metabolism,Metabolism
+PROTEASOME,Proteasome,path:map03050,"Genetic Information Processing; Folding, sorting and degradation",Genetic Information Processing
+AXON_GUIDANCE,Axon guidance,path:map04360,Organismal Systems; Development,Organismal Systems
+HIPPO_SIGNALING_PATHWAY,Hippo signaling pathway,path:map04390,Environmental Information Processing; Signal transduction,Environmental Information Processing
+SIGNALING_PATHWAYS_REGULATING_PLURIPOTENCY_OF_STEM_CELLS,Signaling pathways regulating pluripotency of stem cells,path:map04550,Cellular Processes; Cellular community - eukaryotes,Cellular Processes
+FOCAL_ADHESION,Focal adhesion,path:map04510,Cellular Processes; Cellular community - eukaryotes,Cellular Processes
+CALCIUM_SIGNALING_PATHWAY,Calcium signaling pathway,path:map04020,Environmental Information Processing; Signal transduction,Environmental Information Processing
+NICOTINE_ADDICTION,Nicotine addiction,path:map05033,Human Diseases; Substance dependence,Human Diseases
+ARRHYTHMOGENIC_RIGHT_VENTRICULAR_CARDIOMYOPATHY_ARVC,Arrhythmogenic right ventricular cardiomyopathy (ARVC),path:map05412,Human Diseases; Cardiovascular diseases,Human Diseases
+DILATED_CARDIOMYOPATHY_DCM,Dilated cardiomyopathy (DCM),path:map05414,Human Diseases; Cardiovascular diseases,Human Diseases
+COMPLEMENT_AND_COAGULATION_CASCADES,Complement and coagulation cascades,path:map04610,Organismal Systems; Immune system,Organismal Systems
+ECM_RECEPTOR_INTERACTION,ECM-receptor interaction,path:map04512,Environmental Information Processing; Signaling molecules and interaction,Environmental Information Processing
+BASAL_CELL_CARCINOMA,Basal cell carcinoma,path:map05217,Human Diseases; Cancers: Specific types,Human Diseases
+HUMAN_PAPILLOMAVIRUS_INFECTION,Human papillomavirus infection,path:map05165,Human Diseases; Infectious diseases: Viral,Human Diseases
+PROTEOGLYCANS_IN_CANCER,Proteoglycans in cancer,path:map05205,Human Diseases; Cancers: Overview,Human Diseases
+RAP1_SIGNALING_PATHWAY,Rap1 signaling pathway,path:map04015,Environmental Information Processing; Signal transduction,Environmental Information Processing
+MORPHINE_ADDICTION,Morphine addiction,path:map05032,Human Diseases; Substance dependence,Human Diseases
+CAMP_SIGNALING_PATHWAY,cAMP signaling pathway,path:map04024,Environmental Information Processing; Signal transduction,Environmental Information Processing
+CUSHING'S_SYNDROME,Cushing syndrome,path:map04934,Human Diseases; Endocrine and metabolic diseases,Human Diseases
+ESTROGEN_SIGNALING_PATHWAY,Estrogen signaling pathway,path:map04915,Organismal Systems; Endocrine system,Organismal Systems
+GASTRIC_CANCER,Gastric cancer,path:map05226,Human Diseases; Cancers: Specific types,Human Diseases
+BREAST_CANCER,Breast cancer,path:map05224,Human Diseases; Cancers: Specific types,Human Diseases
+MELANOGENESIS,Melanogenesis,path:map04916,Organismal Systems; Endocrine system,Organismal Systems
+HYPERTROPHIC_CARDIOMYOPATHY_HCM,Hypertrophic cardiomyopathy (HCM),path:map05410,Human Diseases; Cardiovascular diseases,Human Diseases
+CELL_ADHESION_MOLECULES_CAMS,Cell adhesion molecules (CAMs),path:map04514,Environmental Information Processing; Signaling molecules and interaction,Environmental Information Processing
+MUCIN_TYPE_O_GLYCAN_BIOSYNTHESIS,Mucin type O-glycan biosynthesis,path:map00512,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+GLYCOSAMINOGLYCAN_BIOSYNTHESIS_HEPARAN_SULFATE_HEPARIN,Glycosaminoglycan biosynthesis - heparan sulfate / heparin,path:map00534,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+PROTEIN_DIGESTION_AND_ABSORPTION,Protein digestion and absorption,path:map04974,Organismal Systems; Digestive system,Organismal Systems
+SYSTEMIC_LUPUS_ERYTHEMATOSUS,Systemic lupus erythematosus,path:map05322,Human Diseases; Immune diseases,Human Diseases
+CHEMOKINE_SIGNALING_PATHWAY,Chemokine signaling pathway,path:map04062,Organismal Systems; Immune system,Organismal Systems
+ANTIGEN_PROCESSING_AND_PRESENTATION,Antigen processing and presentation,path:map04612,Organismal Systems; Immune system,Organismal Systems
+TUBERCULOSIS,Tuberculosis,path:map05152,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+AUTOIMMUNE_THYROID_DISEASE,Autoimmune thyroid disease,path:map05320,Human Diseases; Immune diseases,Human Diseases
+GRAFT_VERSUS_HOST_DISEASE,Graft-versus-host disease,path:map05332,Human Diseases; Immune diseases,Human Diseases
+ALLOGRAFT_REJECTION,Allograft rejection,path:map05330,Human Diseases; Immune diseases,Human Diseases
+NATURAL_KILLER_CELL_MEDIATED_CYTOTOXICITY,Natural killer cell mediated cytotoxicity,path:map04650,Organismal Systems; Immune system,Organismal Systems
+JAK_STAT_SIGNALING_PATHWAY,JAK-STAT signaling pathway,path:map04630,Environmental Information Processing; Signal transduction,Environmental Information Processing
+INTESTINAL_IMMUNE_NETWORK_FOR_IGA_PRODUCTION,Intestinal immune network for IgA production,path:map04672,Organismal Systems; Immune system,Organismal Systems
+HEMATOPOIETIC_CELL_LINEAGE,Hematopoietic cell lineage,path:map04640,Organismal Systems; Immune system,Organismal Systems
+TYPE_I_DIABETES_MELLITUS,Type II diabetes mellitus,path:map04930,Human Diseases; Endocrine and metabolic diseases,Human Diseases
+ASTHMA,Asthma,path:map05310,Human Diseases; Immune diseases,Human Diseases
+OXIDATIVE_PHOSPHORYLATION,Oxidative phosphorylation,path:map00190,Metabolism; Energy metabolism,Metabolism
+PARKINSON'S_DISEASE,Parkinson disease,path:map05012,Human Diseases; Neurodegenerative diseases,Human Diseases
+ABC_TRANSPORTERS,ABC transporters,path:map02010,Environmental Information Processing; Membrane transport,Environmental Information Processing
+UBIQUITIN_MEDIATED_PROTEOLYSIS,Ubiquitin mediated proteolysis,path:map04120,"Genetic Information Processing; Folding, sorting and degradation",Genetic Information Processing
+VIBRIO_CHOLERAE_INFECTION,Vibrio cholerae infection,path:map05110,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+GLYCOLYSIS_GLUCONEOGENESIS,Glycolysis / Gluconeogenesis,path:map00010,Metabolism; Carbohydrate metabolism,Metabolism
+EPSTEIN_BARR_VIRUS_INFECTION,Epstein-Barr virus infection,path:map05169,Human Diseases; Infectious diseases: Viral,Human Diseases
+RNA_DEGRADATION,RNA degradation,path:map03018,"Genetic Information Processing; Folding, sorting and degradation",Genetic Information Processing
+RIBOSOME_BIOGENESIS_IN_EUKARYOTES,Ribosome biogenesis in eukaryotes,path:map03008,Genetic Information Processing; Translation,Genetic Information Processing
+PEROXISOME,Peroxisome,path:map04146,Cellular Processes; Transport and catabolism,Cellular Processes
+OOCYTE_MEIOSIS,Oocyte meiosis,path:map04114,Cellular Processes; Cell growth and death,Cellular Processes
+CITRATE_CYCLE_TCA_CYCLE,Citrate cycle (TCA cycle),path:map00020,Metabolism; Carbohydrate metabolism,Metabolism
+NUCLEOTIDE_EXCISION_REPAIR,Nucleotide excision repair,path:map03420,Genetic Information Processing; Replication and repair,Genetic Information Processing
+DNA_REPLICATION,DNA replication,path:map03030,Genetic Information Processing; Replication and repair,Genetic Information Processing
+CIRCADIAN_ENTRAINMENT,Circadian entrainment,path:map04713,Organismal Systems; Environmental adaptation,Organismal Systems
+GLUTAMATERGIC_SYNAPSE,Glutamatergic synapse,path:map04724,Organismal Systems; Nervous system,Organismal Systems
+GABAERGIC_SYNAPSE,GABAergic synapse,path:map04727,Organismal Systems; Nervous system,Organismal Systems
+RETROGRADE_ENDOCANNABINOID_SIGNALING,Retrograde endocannabinoid signaling,path:map04723,Organismal Systems; Nervous system,Organismal Systems
+DOPAMINERGIC_SYNAPSE,Dopaminergic synapse,path:map04728,Organismal Systems; Nervous system,Organismal Systems
+APELIN_SIGNALING_PATHWAY,Apelin signaling pathway,path:map04371,Environmental Information Processing; Signal transduction,Environmental Information Processing
+GAP_JUNCTION,Gap junction,path:map04540,Cellular Processes; Cellular community - eukaryotes,Cellular Processes
+FATTY_ACID_DEGRADATION,Fatty acid degradation,path:map00071,Metabolism; Lipid metabolism,Metabolism
+LONG_TERM_POTENTIATION,Long-term potentiation,path:map04720,Organismal Systems; Nervous system,Organismal Systems
+CHOLINERGIC_SYNAPSE,Cholinergic synapse,path:map04725,Organismal Systems; Nervous system,Organismal Systems
+REGULATION_OF_ACTIN_CYTOSKELETON,Regulation of actin cytoskeleton,path:map04810,Cellular Processes; Cell motility,Cellular Processes
+WNT_SIGNALING_PATHWAY,Wnt signaling pathway,path:map04310,Environmental Information Processing; Signal transduction,Environmental Information Processing
+HEPATOCELLULAR_CARCINOMA,Hepatocellular carcinoma,path:map05225,Human Diseases; Cancers: Specific types,Human Diseases
+RELAXIN_SIGNALING_PATHWAY,Relaxin signaling pathway,path:map04926,Organismal Systems; Endocrine system,Organismal Systems
+ERBB_SIGNALING_PATHWAY,ErbB signaling pathway,path:map04012,Environmental Information Processing; Signal transduction,Environmental Information Processing
+RETINOL_METABOLISM,Retinol metabolism,path:map00830,Metabolism; Metabolism of cofactors and vitamins,Metabolism
+STEROID_HORMONE_BIOSYNTHESIS,Steroid hormone biosynthesis,path:map00140,Metabolism; Lipid metabolism,Metabolism
+ADRENERGIC_SIGNALING_IN_CARDIOMYOCYTES,Adrenergic signaling in cardiomyocytes,path:map04261,Organismal Systems; Circulatory system,Organismal Systems
+CGMP_PKG_SIGNALING_PATHWAY,cGMP-PKG signaling pathway,path:map04022,Environmental Information Processing; Signal transduction,Environmental Information Processing
+OXYTOCIN_SIGNALING_PATHWAY,Oxytocin signaling pathway,path:map04921,Organismal Systems; Endocrine system,Organismal Systems
+INFLAMMATORY_MEDIATOR_REGULATION_OF_TRP_CHANNELS,Inflammatory mediator regulation of TRP channels,path:map04750,Organismal Systems; Sensory system,Organismal Systems
+GASTRIC_ACID_SECRETION,Gastric acid secretion,path:map04971,Organismal Systems; Digestive system,Organismal Systems
+ALDOSTERONE_SYNTHESIS_AND_SECRETION,Aldosterone synthesis and secretion,path:map04925,Organismal Systems; Endocrine system,Organismal Systems
+PLATELET_ACTIVATION,Platelet activation,path:map04611,Organismal Systems; Immune system,Organismal Systems
+THYROID_HORMONE_SIGNALING_PATHWAY,Thyroid hormone signaling pathway,path:map04919,Organismal Systems; Endocrine system,Organismal Systems
+MAPK_SIGNALING_PATHWAY,MAPK signaling pathway,path:map04010,Environmental Information Processing; Signal transduction,Environmental Information Processing
+RAS_SIGNALING_PATHWAY,Ras signaling pathway,path:map04014,Environmental Information Processing; Signal transduction,Environmental Information Processing
+ENDOCYTOSIS,Endocytosis,path:map04144,Cellular Processes; Transport and catabolism,Cellular Processes
+CHEMICAL_CARCINOGENESIS,Chemical carcinogenesis,path:map05204,Human Diseases; Cancers: Overview,Human Diseases
+DRUG_METABOLISM_CYTOCHROME_P450,Drug metabolism - cytochrome P450,path:map00982,Metabolism; Xenobiotics biodegradation and metabolism,Metabolism
+METABOLISM_OF_XENOBIOTICS_BY_CYTOCHROME_P450,Metabolism of xenobiotics by cytochrome P450,path:map00980,Metabolism; Xenobiotics biodegradation and metabolism,Metabolism
+SEROTONERGIC_SYNAPSE,Serotonergic synapse,path:map04726,Organismal Systems; Nervous system,Organismal Systems
+MTOR_SIGNALING_PATHWAY,mTOR signaling pathway,path:map04150,Environmental Information Processing; Signal transduction,Environmental Information Processing
+PANCREATIC_SECRETION,Pancreatic secretion,path:map04972,Organismal Systems; Digestive system,Organismal Systems
+MRNA_SURVEILLANCE_PATHWAY,mRNA surveillance pathway,path:map03015,Genetic Information Processing; Translation,Genetic Information Processing
+PROTEIN_PROCESSING_IN_ENDOPLASMIC_RETICULUM,Protein processing in endoplasmic reticulum,path:map04141,"Genetic Information Processing; Folding, sorting and degradation",Genetic Information Processing
+PHOSPHATIDYLINOSITOL_SIGNALING_SYSTEM,Phosphatidylinositol signaling system,path:map04070,Environmental Information Processing; Signal transduction,Environmental Information Processing
+INOSITOL_PHOSPHATE_METABOLISM,Inositol phosphate metabolism,path:map00562,Metabolism; Carbohydrate metabolism,Metabolism
+NEUROTROPHIN_SIGNALING_PATHWAY,Neurotrophin signaling pathway,path:map04722,Organismal Systems; Nervous system,Organismal Systems
+AUTOPHAGY_ANIMAL,Autophagy - animal,path:map04140,Cellular Processes; Transport and catabolism,Cellular Processes
+INSULIN_SIGNALING_PATHWAY,Insulin signaling pathway,path:map04910,Organismal Systems; Endocrine system,Organismal Systems
+SPHINGOLIPID_SIGNALING_PATHWAY,Sphingolipid signaling pathway,path:map04071,Environmental Information Processing; Signal transduction,Environmental Information Processing
+VIRAL_CARCINOGENESIS,Viral carcinogenesis,path:map05203,Human Diseases; Cancers: Overview,Human Diseases
+AMPK_SIGNALING_PATHWAY,AMPK signaling pathway,path:map04152,Environmental Information Processing; Signal transduction,Environmental Information Processing
+TIGHT_JUNCTION,Tight junction,path:map04530,Cellular Processes; Cellular community - eukaryotes,Cellular Processes
+ENDOCRINE_AND_OTHER_FACTOR_REGULATED_CALCIUM_REABSORPTION,Endocrine and other factor-regulated calcium reabsorption,path:map04961,Organismal Systems; Excretory system,Organismal Systems
+PI3K_AKT_SIGNALING_PATHWAY,PI3K-Akt signaling pathway,path:map04151,Environmental Information Processing; Signal transduction,Environmental Information Processing
+TGF_BETA_SIGNALING_PATHWAY,TGF-beta signaling pathway,path:map04350,Environmental Information Processing; Signal transduction,Environmental Information Processing
+STAPHYLOCOCCUS_AUREUS_INFECTION,Staphylococcus aureus infection,path:map05150,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+ADHERENS_JUNCTION,Adherens junction,path:map04520,Cellular Processes; Cellular community - eukaryotes,Cellular Processes
+PHOSPHOLIPASE_D_SIGNALING_PATHWAY,Phospholipase D signaling pathway,path:map04072,Environmental Information Processing; Signal transduction,Environmental Information Processing
+INSULIN_SECRETION,Insulin secretion,path:map04911,Organismal Systems; Endocrine system,Organismal Systems
+BACTERIAL_INVASION_OF_EPITHELIAL_CELLS,Bacterial invasion of epithelial cells,path:map05100,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+PARATHYROID_HORMONE_SYNTHESIS_SECRETION_AND_ACTION,"Parathyroid hormone synthesis, secretion and action",path:map04928,Organismal Systems; Endocrine system,Organismal Systems
+MICRORNAS_IN_CANCER,MicroRNAs in cancer,path:map05206,Human Diseases; Cancers: Overview,Human Diseases
+TRANSCRIPTIONAL_MISREGULATION_IN_CANCER,Transcriptional misregulation in cancer,path:map05202,Human Diseases; Cancers: Overview,Human Diseases
+AMOEBIASIS,Amoebiasis,path:map05146,Human Diseases; Infectious diseases: Parasitic,Human Diseases
+SALIVARY_SECRETION,Salivary secretion,path:map04970,Organismal Systems; Digestive system,Organismal Systems
+CORTISOL_SYNTHESIS_AND_SECRETION,Cortisol synthesis and secretion,path:map04927,Organismal Systems; Endocrine system,Organismal Systems
+RENIN_SECRETION,Renin secretion,path:map04924,Organismal Systems; Endocrine system,Organismal Systems
+NOTCH_SIGNALING_PATHWAY,Notch signaling pathway,path:map04330,Environmental Information Processing; Signal transduction,Environmental Information Processing
+HEPATITIS_C,Hepatitis C,path:map05160,Human Diseases; Infectious diseases: Viral,Human Diseases
+TH17_CELL_DIFFERENTIATION,Th17 cell differentiation,path:map04659,Organismal Systems; Immune system,Organismal Systems
+TH1_AND_TH2_CELL_DIFFERENTIATION,Th1 and Th2 cell differentiation,path:map04658,Organismal Systems; Immune system,Organismal Systems
+GLYCOSAMINOGLYCAN_BIOSYNTHESIS_CHONDROITIN_SULFATE_DERMATAN_SULFATE,Glycosaminoglycan biosynthesis - chondroitin sulfate / dermatan sulfate,path:map00532,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+GLYCOSPHINGOLIPID_BIOSYNTHESIS_LACTO_AND_NEOLACTO_SERIES,Glycosphingolipid biosynthesis - lacto and neolacto series,path:map00601,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+HTLV_I_INFECTION,Human T-cell leukemia virus 1 infection,path:map05166,Human Diseases; Infectious diseases: Viral,Human Diseases
+VIRAL_MYOCARDITIS,Viral myocarditis,path:map05416,Human Diseases; Cardiovascular diseases,Human Diseases
+OTHER_TYPES_OF_O_GLYCAN_BIOSYNTHESIS,Other types of O-glycan biosynthesis,path:map00514,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+VASCULAR_SMOOTH_MUSCLE_CONTRACTION,Vascular smooth muscle contraction,path:map04270,Organismal Systems; Circulatory system,Organismal Systems
+ALDOSTERONE_REGULATED_SODIUM_REABSORPTION,Aldosterone-regulated sodium reabsorption,path:map04960,Organismal Systems; Excretory system,Organismal Systems
+HEDGEHOG_SIGNALING_PATHWAY,Hedgehog signaling pathway,path:map04340,Environmental Information Processing; Signal transduction,Environmental Information Processing
+BILE_SECRETION,Bile secretion,path:map04976,Organismal Systems; Digestive system,Organismal Systems
+THYROID_HORMONE_SYNTHESIS,Thyroid hormone synthesis,path:map04918,Organismal Systems; Endocrine system,Organismal Systems
+HIPPO_SIGNALING_PATHWAY_MULTIPLE_SPECIES,Hippo signaling pathway - multiple species,path:map04392,Environmental Information Processing; Signal transduction,Environmental Information Processing
+COCAINE_ADDICTION,Cocaine addiction,path:map05030,Human Diseases; Substance dependence,Human Diseases
+REGULATION_OF_LIPOLYSIS_IN_ADIPOCYTES,Regulation of lipolysis in adipocytes,path:map04923,Organismal Systems; Endocrine system,Organismal Systems
+BLADDER_CANCER,Bladder cancer,path:map05219,Human Diseases; Cancers: Specific types,Human Diseases
+OSTEOCLAST_DIFFERENTIATION,Osteoclast differentiation,path:map04380,Organismal Systems; Development,Organismal Systems
+TNF_SIGNALING_PATHWAY,TNF signaling pathway,path:map04668,Environmental Information Processing; Signal transduction,Environmental Information Processing
+HEPATITIS_B,Hepatitis B,path:map05161,Human Diseases; Infectious diseases: Viral,Human Diseases
+NF_KAPPA_B_SIGNALING_PATHWAY,NF-kappa B signaling pathway,path:map04064,Environmental Information Processing; Signal transduction,Environmental Information Processing
+NOD_LIKE_RECEPTOR_SIGNALING_PATHWAY,NOD-like receptor signaling pathway,path:map04621,Organismal Systems; Immune system,Organismal Systems
+LEISHMANIASIS,Leishmaniasis,path:map05140,Human Diseases; Infectious diseases: Parasitic,Human Diseases
+HERPES_SIMPLEX_INFECTION,Herpes simplex virus 1 infection,path:map05168,Human Diseases; Infectious diseases: Viral,Human Diseases
+SMALL_CELL_LUNG_CANCER,Small cell lung cancer,path:map05222,Human Diseases; Cancers: Specific types,Human Diseases
+LEUKOCYTE_TRANSENDOTHELIAL_MIGRATION,Leukocyte transendothelial migration,path:map04670,Organismal Systems; Immune system,Organismal Systems
+MELANOMA,Melanoma,path:map05218,Human Diseases; Cancers: Specific types,Human Diseases
+PROLACTIN_SIGNALING_PATHWAY,Prolactin signaling pathway,path:map04917,Organismal Systems; Endocrine system,Organismal Systems
+AGE_RAGE_SIGNALING_PATHWAY_IN_DIABETIC_COMPLICATIONS,AGE-RAGE signaling pathway in diabetic complications,path:map04933,Human Diseases; Endocrine and metabolic diseases,Human Diseases
+ACUTE_MYELOID_LEUKEMIA,Acute myeloid leukemia,path:map05221,Human Diseases; Cancers: Specific types,Human Diseases
+NON_SMALL_CELL_LUNG_CANCER,Non-small cell lung cancer,path:map05223,Human Diseases; Cancers: Specific types,Human Diseases
+ENDOMETRIAL_CANCER,Endometrial cancer,path:map05213,Human Diseases; Cancers: Specific types,Human Diseases
+PROSTATE_CANCER,Prostate cancer,path:map05215,Human Diseases; Cancers: Specific types,Human Diseases
+CHRONIC_MYELOID_LEUKEMIA,Chronic myeloid leukemia,path:map05220,Human Diseases; Cancers: Specific types,Human Diseases
+LONGEVITY_REGULATING_PATHWAY,Longevity regulating pathway,path:map04211,Organismal Systems; Aging,Organismal Systems
+INSULIN_RESISTANCE,Insulin resistance,path:map04931,Human Diseases; Endocrine and metabolic diseases,Human Diseases
+CHOLINE_METABOLISM_IN_CANCER,Choline metabolism in cancer,path:map05231,Human Diseases; Cancers: Overview,Human Diseases
+B_CELL_RECEPTOR_SIGNALING_PATHWAY,B cell receptor signaling pathway,path:map04662,Organismal Systems; Immune system,Organismal Systems
+FC_GAMMA_R_MEDIATED_PHAGOCYTOSIS,Fc gamma R-mediated phagocytosis,path:map04666,Organismal Systems; Immune system,Organismal Systems
+TYPE_II_DIABETES_MELLITUS,Type II diabetes mellitus,path:map04930,Human Diseases; Endocrine and metabolic diseases,Human Diseases
+CARBOHYDRATE_DIGESTION_AND_ABSORPTION,Carbohydrate digestion and absorption,path:map04973,Organismal Systems; Digestive system,Organismal Systems
+CENTRAL_CARBON_METABOLISM_IN_CANCER,Central carbon metabolism in cancer,path:map05230,Human Diseases; Cancers: Overview,Human Diseases
+GLUCAGON_SIGNALING_PATHWAY,Glucagon signaling pathway,path:map04922,Organismal Systems; Endocrine system,Organismal Systems
+HIF_1_SIGNALING_PATHWAY,HIF-1 signaling pathway,path:map04066,Environmental Information Processing; Signal transduction,Environmental Information Processing
+COLORECTAL_CANCER,Colorectal cancer,path:map05210,Human Diseases; Cancers: Specific types,Human Diseases
+RENAL_CELL_CARCINOMA,Renal cell carcinoma,path:map05211,Human Diseases; Cancers: Specific types,Human Diseases
+FOXO_SIGNALING_PATHWAY,FoxO signaling pathway,path:map04068,Environmental Information Processing; Signal transduction,Environmental Information Processing
+GLIOMA,Glioma,path:map05214,Human Diseases; Cancers: Specific types,Human Diseases
+PANCREATIC_CANCER,Pancreatic cancer,path:map05212,Human Diseases; Cancers: Specific types,Human Diseases
+RNA_TRANSPORT,RNA transport,path:map03013,Genetic Information Processing; Translation,Genetic Information Processing
+LYSINE_DEGRADATION,Lysine degradation,path:map00310,Metabolism; Amino acid metabolism,Metabolism
+VASOPRESSIN_REGULATED_WATER_REABSORPTION,Vasopressin-regulated water reabsorption,path:map04962,Organismal Systems; Excretory system,Organismal Systems
+GLYCEROLIPID_METABOLISM,Glycerolipid metabolism,path:map00561,Metabolism; Lipid metabolism,Metabolism
+SHIGELLOSIS,Shigellosis,path:map05131,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+SNARE_INTERACTIONS_IN_VESICULAR_TRANSPORT,SNARE interactions in vesicular transport,path:map04130,"Genetic Information Processing; Folding, sorting and degradation",Genetic Information Processing
+FLUID_SHEAR_STRESS_AND_ATHEROSCLEROSIS,Fluid shear stress and atherosclerosis,path:map05418,Human Diseases; Cardiovascular diseases,Human Diseases
+ASCORBATE_AND_ALDARATE_METABOLISM,Ascorbate and aldarate metabolism,path:map00053,Metabolism; Carbohydrate metabolism,Metabolism
+PENTOSE_AND_GLUCURONATE_INTERCONVERSIONS,Pentose and glucuronate interconversions,path:map00040,Metabolism; Carbohydrate metabolism,Metabolism
+NITROGEN_METABOLISM,Nitrogen metabolism,path:map00910,Metabolism; Energy metabolism,Metabolism
+TOXOPLASMOSIS,Toxoplasmosis,path:map05145,Human Diseases; Infectious diseases: Parasitic,Human Diseases
+SYNAPTIC_VESICLE_CYCLE,Synaptic vesicle cycle,path:map04721,Organismal Systems; Nervous system,Organismal Systems
+PHAGOSOME,Phagosome,path:map04145,Cellular Processes; Transport and catabolism,Cellular Processes
+PATHOGENIC_ESCHERICHIA_COLI_INFECTION,Pathogenic Escherichia coli infection,path:map05130,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+GNRH_SIGNALING_PATHWAY,GnRH signaling pathway,path:map04912,Organismal Systems; Endocrine system,Organismal Systems
+FC_EPSILON_RI_SIGNALING_PATHWAY,Fc epsilon RI signaling pathway,path:map04664,Organismal Systems; Immune system,Organismal Systems
+PROGESTERONE_MEDIATED_OOCYTE_MATURATION,Progesterone-mediated oocyte maturation,path:map04914,Organismal Systems; Endocrine system,Organismal Systems
+VEGF_SIGNALING_PATHWAY,VEGF signaling pathway,path:map04370,Environmental Information Processing; Signal transduction,Environmental Information Processing
+CELL_CYCLE,Cell cycle,path:map04110,Cellular Processes; Cell growth and death,Cellular Processes
+AUTOPHAGY_OTHER,Autophagy - other,path:map04136,Cellular Processes; Transport and catabolism,Cellular Processes
+CELLULAR_SENESCENCE,Cellular senescence,path:map04218,Cellular Processes; Cell growth and death,Cellular Processes
+EPITHELIAL_CELL_SIGNALING_IN_HELICOBACTER_PYLORI_INFECTION,Epithelial cell signaling in Helicobacter pylori infection,path:map05120,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+COLLECTING_DUCT_ACID_SECRETION,Collecting duct acid secretion,path:map04966,Organismal Systems; Excretory system,Organismal Systems
+LONGEVITY_REGULATING_PATHWAY_MULTIPLE_SPECIES,Longevity regulating pathway - multiple species,path:map04213,Organismal Systems; Aging,Organismal Systems
+LONG_TERM_DEPRESSION,Long-term depression,path:map04730,Organismal Systems; Nervous system,Organismal Systems
+AMPHETAMINE_ADDICTION,Amphetamine addiction,path:map05031,Human Diseases; Substance dependence,Human Diseases
+THERMOGENESIS,Thermogenesis,path:map04714,Organismal Systems; Environmental adaptation,Organismal Systems
+HUNTINGTON'S_DISEASE,Huntington disease,path:map05016,Human Diseases; Neurodegenerative diseases,Human Diseases
+ALZHEIMER'S_DISEASE,Alzheimer disease,path:map05010,Human Diseases; Neurodegenerative diseases,Human Diseases
+NON_ALCOHOLIC_FATTY_LIVER_DISEASE_NAFLD,Non-alcoholic fatty liver disease (NAFLD),path:map04932,Human Diseases; Endocrine and metabolic diseases,Human Diseases
+T_CELL_RECEPTOR_SIGNALING_PATHWAY,T cell receptor signaling pathway,path:map04660,Organismal Systems; Immune system,Organismal Systems
+KAPOSI'S_SARCOMA_ASSOCIATED_HERPESVIRUS_INFECTION,Kaposi sarcoma-associated herpesvirus infection,path:map05167,Human Diseases; Infectious diseases: Viral,Human Diseases
+C_TYPE_LECTIN_RECEPTOR_SIGNALING_PATHWAY,C-type lectin receptor signaling pathway,path:map04625,Organismal Systems; Immune system,Organismal Systems
+INFLUENZA_A,Influenza A,path:map05164,Human Diseases; Infectious diseases: Viral,Human Diseases
+TOLL_LIKE_RECEPTOR_SIGNALING_PATHWAY,Toll-like receptor signaling pathway,path:map04620,Organismal Systems; Immune system,Organismal Systems
+MEASLES,Measles,path:map05162,Human Diseases; Infectious diseases: Viral,Human Diseases
+TASTE_TRANSDUCTION,Taste transduction,path:map04742,Organismal Systems; Sensory system,Organismal Systems
+INFLAMMATORY_BOWEL_DISEASE_IBD,Inflammatory bowel disease (IBD),path:map05321,Human Diseases; Immune diseases,Human Diseases
+MALARIA,Malaria,path:map05144,Human Diseases; Infectious diseases: Parasitic,Human Diseases
+RHEUMATOID_ARTHRITIS,Rheumatoid arthritis,path:map05323,Human Diseases; Immune diseases,Human Diseases
+IL_17_SIGNALING_PATHWAY,IL-17 signaling pathway,path:map04657,Organismal Systems; Immune system,Organismal Systems
+RIG_I_LIKE_RECEPTOR_SIGNALING_PATHWAY,RIG-I-like receptor signaling pathway,path:map04622,Organismal Systems; Immune system,Organismal Systems
+CYTOSOLIC_DNA_SENSING_PATHWAY,Cytosolic DNA-sensing pathway,path:map04623,Organismal Systems; Immune system,Organismal Systems
+PYRUVATE_METABOLISM,Pyruvate metabolism,path:map00620,Metabolism; Carbohydrate metabolism,Metabolism
+BUTANOATE_METABOLISM,Butanoate metabolism,path:map00650,Metabolism; Carbohydrate metabolism,Metabolism
+TRYPTOPHAN_METABOLISM,Tryptophan metabolism,path:map00380,Metabolism; Amino acid metabolism,Metabolism
+BETA_ALANINE_METABOLISM,beta-Alanine metabolism,path:map00410,Metabolism; Metabolism of other amino acids,Metabolism
+PROPANOATE_METABOLISM,Propanoate metabolism,path:map00640,Metabolism; Carbohydrate metabolism,Metabolism
+NECROPTOSIS,Necroptosis,path:map04217,Cellular Processes; Cell growth and death,Cellular Processes
+TERPENOID_BACKBONE_BIOSYNTHESIS,Terpenoid backbone biosynthesis,path:map00900,Metabolism; Metabolism of terpenoids and polyketides,Metabolism
+TYROSINE_METABOLISM,Tyrosine metabolism,path:map00350,Metabolism; Amino acid metabolism,Metabolism
+RNA_POLYMERASE,RNA polymerase,path:map03020,Genetic Information Processing; Transcription,Genetic Information Processing
+MISMATCH_REPAIR,Mismatch repair,path:map03430,Genetic Information Processing; Replication and repair,Genetic Information Processing
+GLYOXYLATE_AND_DICARBOXYLATE_METABOLISM,Glyoxylate and dicarboxylate metabolism,path:map00630,Metabolism; Carbohydrate metabolism,Metabolism
+PENTOSE_PHOSPHATE_PATHWAY,Pentose phosphate pathway,path:map00030,Metabolism; Carbohydrate metabolism,Metabolism
+ARGININE_AND_PROLINE_METABOLISM,Arginine and proline metabolism,path:map00330,Metabolism; Amino acid metabolism,Metabolism
+ALANINE_ASPARTATE_AND_GLUTAMATE_METABOLISM,"Alanine, aspartate and glutamate metabolism",path:map00250,Metabolism; Amino acid metabolism,Metabolism
+FRUCTOSE_AND_MANNOSE_METABOLISM,Fructose and mannose metabolism,path:map00051,Metabolism; Carbohydrate metabolism,Metabolism
+GLYCOSYLPHOSPHATIDYLINOSITOL_GPI_ANCHOR_BIOSYNTHESIS,Glycosylphosphatidylinositol (GPI)-anchor biosynthesis,path:map00563,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+ONE_CARBON_POOL_BY_FOLATE,One carbon pool by folate,path:map00670,Metabolism; Metabolism of cofactors and vitamins,Metabolism
+PRIMARY_BILE_ACID_BIOSYNTHESIS,Primary bile acid biosynthesis,path:map00120,Metabolism; Lipid metabolism,Metabolism
+STEROID_BIOSYNTHESIS,Steroid biosynthesis,path:map00100,Metabolism; Lipid metabolism,Metabolism
+PYRIMIDINE_METABOLISM,Pyrimidine metabolism,path:map00240,Metabolism; Nucleotide metabolism,Metabolism
+PURINE_METABOLISM,Purine metabolism,path:map00230,Metabolism; Nucleotide metabolism,Metabolism
+GLUTATHIONE_METABOLISM,Glutathione metabolism,path:map00480,Metabolism; Metabolism of other amino acids,Metabolism
+PORPHYRIN_AND_CHLOROPHYLL_METABOLISM,Porphyrin and chlorophyll metabolism,path:map00860,Metabolism; Metabolism of cofactors and vitamins,Metabolism
+CHAGAS_DISEASE_AMERICAN_TRYPANOSOMIASIS,Chagas disease (American trypanosomiasis),path:map05142,Human Diseases; Infectious diseases: Parasitic,Human Diseases
+PHOTOTRANSDUCTION,Phototransduction,path:map04744,Organismal Systems; Sensory system,Organismal Systems
+SALMONELLA_INFECTION,Salmonella infection,path:map05132,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+LEGIONELLOSIS,Legionellosis,path:map05134,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+CARDIAC_MUSCLE_CONTRACTION,Cardiac muscle contraction,path:map04260,Organismal Systems; Circulatory system,Organismal Systems
+ARACHIDONIC_ACID_METABOLISM,Arachidonic acid metabolism,path:map00590,Metabolism; Lipid metabolism,Metabolism
+PERTUSSIS,Pertussis,path:map05133,Human Diseases; Infectious diseases: Bacterial,Human Diseases
+PRIMARY_IMMUNODEFICIENCY,Primary immunodeficiency,path:map05340,Human Diseases; Immune diseases,Human Diseases
+GLYCOSPHINGOLIPID_BIOSYNTHESIS_GANGLIO_SERIES,Glycosphingolipid biosynthesis - ganglio series,path:map00604,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+AMYOTROPHIC_LATERAL_SCLEROSIS_ALS,Amyotrophic lateral sclerosis (ALS),path:map05014,Human Diseases; Neurodegenerative diseases,Human Diseases
+OVARIAN_STEROIDOGENESIS,Ovarian steroidogenesis,path:map04913,Organismal Systems; Endocrine system,Organismal Systems
+PRION_DISEASES,Prion diseases,path:map05020,Human Diseases; Neurodegenerative diseases,Human Diseases
+MANNOSE_TYPE_O_GLYCAN_BIOSYNTHESIS,Mannose type O-glycan biosynthesis,path:map00515,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+BASAL_TRANSCRIPTION_FACTORS,Basal transcription factors,path:map03022,Genetic Information Processing; Transcription,Genetic Information Processing
+N_GLYCAN_BIOSYNTHESIS,N-Glycan biosynthesis,path:map00510,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+STARCH_AND_SUCROSE_METABOLISM,Starch and sucrose metabolism,path:map00500,Metabolism; Carbohydrate metabolism,Metabolism
+PROTEIN_EXPORT,Protein export,path:map03060,"Genetic Information Processing; Folding, sorting and degradation",Genetic Information Processing
+GALACTOSE_METABOLISM,Galactose metabolism,path:map00052,Metabolism; Carbohydrate metabolism,Metabolism
+AMINO_SUGAR_AND_NUCLEOTIDE_SUGAR_METABOLISM,Amino sugar and nucleotide sugar metabolism,path:map00520,Metabolism; Carbohydrate metabolism,Metabolism
+CYSTEINE_AND_METHIONINE_METABOLISM,Cysteine and methionine metabolism,path:map00270,Metabolism; Amino acid metabolism,Metabolism
+GLYCINE_SERINE_AND_THREONINE_METABOLISM,"Glycine, serine and threonine metabolism",path:map00260,Metabolism; Amino acid metabolism,Metabolism
+ARGININE_BIOSYNTHESIS,Arginine biosynthesis,path:map00220,Metabolism; Amino acid metabolism,Metabolism
+HISTIDINE_METABOLISM,Histidine metabolism,path:map00340,Metabolism; Amino acid metabolism,Metabolism
+PHENYLALANINE_METABOLISM,Phenylalanine metabolism,path:map00360,Metabolism; Amino acid metabolism,Metabolism
+FATTY_ACID_ELONGATION,Fatty acid elongation,path:map00062,Metabolism; Lipid metabolism,Metabolism
+BIOSYNTHESIS_OF_UNSATURATED_FATTY_ACIDS,Biosynthesis of unsaturated fatty acids,path:map01040,Metabolism; Lipid metabolism,Metabolism
+FANCONI_ANEMIA_PATHWAY,Fanconi anemia pathway,path:map03460,Genetic Information Processing; Replication and repair,Genetic Information Processing
+HOMOLOGOUS_RECOMBINATION,Homologous recombination,path:map03440,Genetic Information Processing; Replication and repair,Genetic Information Processing
+BASE_EXCISION_REPAIR,Base excision repair,path:map03410,Genetic Information Processing; Replication and repair,Genetic Information Processing
+MATURITY_ONSET_DIABETES_OF_THE_YOUNG,Maturity onset diabetes of the young,path:map04950,Human Diseases; Endocrine and metabolic diseases,Human Diseases
+CIRCADIAN_RHYTHM,Circadian rhythm,path:map04710,Organismal Systems; Environmental adaptation,Organismal Systems
+THYROID_CANCER,Thyroid cancer,path:map05216,Human Diseases; Cancers: Specific types,Human Diseases
+ADIPOCYTOKINE_SIGNALING_PATHWAY,Adipocytokine signaling pathway,path:map04920,Organismal Systems; Endocrine system,Organismal Systems
+MITOPHAGY_ANIMAL,Mitophagy - animal,path:map04137,Cellular Processes; Transport and catabolism,Cellular Processes
+DRUG_METABOLISM_OTHER_ENZYMES,Drug metabolism - other enzymes,path:map00983,Metabolism; Xenobiotics biodegradation and metabolism,Metabolism
+GLYCEROPHOSPHOLIPID_METABOLISM,Glycerophospholipid metabolism,path:map00564,Metabolism; Lipid metabolism,Metabolism
+PPAR_SIGNALING_PATHWAY,PPAR signaling pathway,path:map03320,Organismal Systems; Endocrine system,Organismal Systems
+LYSOSOME,Lysosome,path:map04142,Cellular Processes; Transport and catabolism,Cellular Processes
+APOPTOSIS,Apoptosis,path:map04210,Cellular Processes; Cell growth and death,Cellular Processes
+PANTOTHENATE_AND_COA_BIOSYNTHESIS,Pantothenate and CoA biosynthesis,path:map00770,Metabolism; Metabolism of cofactors and vitamins,Metabolism
+PROXIMAL_TUBULE_BICARBONATE_RECLAMATION,Proximal tubule bicarbonate reclamation,path:map04964,Organismal Systems; Excretory system,Organismal Systems
+LINOLEIC_ACID_METABOLISM,Linoleic acid metabolism,path:map00591,Metabolism; Lipid metabolism,Metabolism
+GLYCOSAMINOGLYCAN_DEGRADATION,Glycosaminoglycan degradation,path:map00531,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+FAT_DIGESTION_AND_ABSORPTION,Fat digestion and absorption,path:map04975,Organismal Systems; Digestive system,Organismal Systems
+RENIN_ANGIOTENSIN_SYSTEM,Renin-angiotensin system,path:map04614,Organismal Systems; Endocrine system,Organismal Systems
+FOLATE_BIOSYNTHESIS,Folate biosynthesis,path:map00790,Metabolism; Metabolism of cofactors and vitamins,Metabolism
+SPHINGOLIPID_METABOLISM,Sphingolipid metabolism,path:map00600,Metabolism; Lipid metabolism,Metabolism
+GLYCOSPHINGOLIPID_BIOSYNTHESIS_GLOBO_AND_ISOGLOBO_SERIES,Glycosphingolipid biosynthesis - globo and isoglobo series,path:map00603,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+APOPTOSIS_MULTIPLE_SPECIES,Apoptosis - multiple species,path:map04215,Cellular Processes; Cell growth and death,Cellular Processes
+ETHER_LIPID_METABOLISM,Ether lipid metabolism,path:map00565,Metabolism; Lipid metabolism,Metabolism
+P53_SIGNALING_PATHWAY,p53 signaling pathway,path:map04115,Cellular Processes; Cell growth and death,Cellular Processes
+AFRICAN_TRYPANOSOMIASIS,African trypanosomiasis,path:map05143,Human Diseases; Infectious diseases: Parasitic,Human Diseases
+ALPHA_LINOLENIC_ACID_METABOLISM,alpha-Linolenic acid metabolism,path:map00592,Metabolism; Lipid metabolism,Metabolism
+VITAMIN_DIGESTION_AND_ABSORPTION,Vitamin digestion and absorption,path:map04977,Organismal Systems; Digestive system,Organismal Systems
+OTHER_GLYCAN_DEGRADATION,Other glycan degradation,path:map00511,Metabolism; Glycan biosynthesis and metabolism,Metabolism
+MINERAL_ABSORPTION,Mineral absorption,path:map04978,Organismal Systems; Digestive system,Organismal Systems
+FERROPTOSIS,Ferroptosis,path:map04216,Cellular Processes; Cell growth and death,Cellular Processes
+CHOLESTEROL_METABOLISM,Cholesterol metabolism,path:map04979,Organismal Systems; Digestive system,Organismal Systems
+SELENOCOMPOUND_METABOLISM,Selenocompound metabolism,path:map00450,Metabolism; Metabolism of other amino acids,Metabolism
+THIAMINE_METABOLISM,Thiamine metabolism,path:map00730,Metabolism; Metabolism of cofactors and vitamins,Metabolism
+NICOTINATE_AND_NICOTINAMIDE_METABOLISM,Nicotinate and nicotinamide metabolism,path:map00760,Metabolism; Metabolism of cofactors and vitamins,Metabolism

@@ -1,0 +1,6 @@
+Name,SubCollectionTitle,CollectionTitle,CollectionID,NumOfGeneSets,NiceName
+kegg_pathway_genes,kegg_pathway_genes,Kegg Pathway Genes,,298,Kegg Pathway Genes
+random_kegg_sizes_genes,Random gene set in sizes similar to KEGG,Random Kegg like,,298,Random (KEGG like sizes)
+random_kegg_sizes_genes2,Random gene set in sizes similar to KEGG 2,Random Kegg like2,,298,Random (KEGG like sizes) (2)
+half_kegg_pathway_genes,Half of kegg_pathway_genes,Half of Kegg Pathway Genes,,149,Half of Kegg Pathway Genes
+half_random_kegg_sizes_genes,Half of Random gene set in sizes similar to KEGG,Half of Random gene set in sizes similar to KEGG,,149,Half of Random gene set in sizes similar to KEGG

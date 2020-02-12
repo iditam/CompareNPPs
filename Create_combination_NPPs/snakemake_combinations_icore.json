@@ -1,0 +1,9 @@
+{
+    "__default__" :
+    {
+      "cpus-per-task" : 1,
+      "mem-per-cpu" : "3000m",
+      "time" : "00:59:00",
+      "log" : "./logs/%x_%j.log"
+    }
+}
