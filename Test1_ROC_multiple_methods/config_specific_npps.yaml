@@ -1,0 +1,51 @@
+
+outputFolder : "Results"
+linkagesFolder : "Linkages"
+positiveLinkagesPrefix : "Corum_InComplexUnique_pos_linkages" # "PPP_positive_linkages_genes_non_unique"
+negativeLinkagesPrefix : "Corum_InComplexUnique_neg_linkages" # "PPP_negative_linkages_123_genes_non_unique"
+dataset_source : "Corum InComplex (Unique)" # "the PrePhyloPro paper"
+
+output_files_id : "bestcomb_vs_other_methods"
+ROC_file_prefix : "ROC_Corum_InComplexUnique"
+PR_file_prefix : "PR_Corum_InComplexUnique"
+AUCs_file_prefix : "AUCs_Corum_InComplexUnique"
+
+ROC_title : "ROC curves of PPP"
+PR_title : "Precision-Recall curves of PPP"
+
+dataFolder : "../NPP_data"
+nppFilePrefix : "Homo_sapiens_NPP"
+
+NPPs : ["UniProt_threshold_20.4__one_divide_x__nodivide__colzscore-pearson",
+                   "PPP-dist", "BPP_Eval-hamming" ]
+
+
+
+
+#
+# ["#01c6bc",
+# "#ff507b",
+# "#efbf59"]
+#
+# ["#00c894",
+# "#e80094",
+# "#e08b00"]
+#
+# ["#60a400",
+# "#4071ff",
+# "#bd0053"]
+npp_colors:
+  UniProt_threshold_20.4__one_divide_x__nodivide__colzscore-pearson : "#d20036" # red
+  PPP-dist : "#be7d00" # beige
+  BPP_Eval-hamming : "#0164ad" # blue
+
+npp_nice_names:
+  UniProt_threshold_20.4__one_divide_x__nodivide__colzscore-pearson : "NPP best combination" # "Threshold=20.4 & 1/x & nodivide & colzscore & pearson"
+  PPP-dist : "PrePhyloPro"
+  BPP_Eval-hamming : "Binary"
+
+legend_on_bottom : TRUE
+
+
+
+numOfGenes : 20192 # 19232

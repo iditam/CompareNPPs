@@ -1,0 +1,18 @@
+{
+    "__default__" :
+    {
+      "cpus-per-task" : 1,
+      "mem-per-cpu" : "16000m",
+      "time" : "02:59:00",
+      "log" : "./logs/%x_%j.log"
+    },
+    "create_partial_correlation_pairs" :
+    {
+      "mem-per-cpu" : "1000m",
+      "time" : "02:59:00"
+    },
+    "ROC_NPP_methods" :
+    {
+      "mem-per-cpu" : "8000m"
+    }
+}

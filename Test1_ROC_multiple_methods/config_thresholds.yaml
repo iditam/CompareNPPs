@@ -1,0 +1,41 @@
+
+outputFolder : "Results"
+linkagesFolder : "Linkages"
+positiveLinkagesPrefix : "Corum_InComplexUnique_pos_linkages" # "PPP_positive_linkages_genes_non_unique"
+negativeLinkagesPrefix : "Corum_InComplexUnique_neg_linkages" # "PPP_negative_linkages_123_genes_non_unique"
+dataset_source : "Corum InComplex (Unique)" # "the PrePhyloPro paper"
+
+output_files_id : "thresholds_newpalette"
+ROC_file_prefix : "ROC_Corum_InComplexUnique"
+PR_file_prefix : "PR_Corum_InComplexUnique"
+AUCs_file_prefix : "AUCs_Corum_InComplexUnique"
+
+ROC_title : "ROC curves of NPP with different thresholds"
+PR_title : "Precision-Recall curves of NPP with different thresholds"
+
+dataFolder : "../NPP_data"
+nppFilePrefix : "Homo_sapiens_NPP"
+
+NPPs : ["UniProt_threshold_20.4_after_zscore", "UniProt_no_threshold",
+        "UniProt_floored_0.01", "UniProt_062018",
+        "UniProt_floored_0.05", "UniProt_threshold_40"]
+
+CORRELATIONs : ["pearson"] # ["pearson", "spearman", "kendall"]
+
+npp_colors:
+  UniProt_062018 :  "#d2b55b" # beige - maybe replace with "#ffadb8" # soft pink
+  UniProt_no_threshold : "#ffb31d" # yellow
+  UniProt_threshold_40 : "#a8e95a" # light green
+  UniProt_threshold_20.4_after_zscore : "#ff6a00" # orange
+  'UniProt_floored_0.01' : "#821c00" # brown
+  'UniProt_floored_0.05' : "#404c22" # dark green
+
+npp_nice_names:
+  UniProt_062018 : "threshold 20.4"
+  UniProt_no_threshold : "no threshold"
+  UniProt_threshold_40 : "threshold 40"
+  UniProt_threshold_20.4_after_zscore : "threshold 20.4 after zscore"
+  'UniProt_floored_0.01' : "late flooring 0.01"
+  'UniProt_floored_0.05' : "late flooring 0.05"
+
+numOfGenes : 20192

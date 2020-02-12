@@ -1,0 +1,30 @@
+
+outputFolder : "Results"
+linkagesFolder : "Linkages"
+positiveLinkagesPrefix : "Corum_InComplexUnique_pos_linkages" # "PPP_positive_linkages_genes_non_unique"
+negativeLinkagesPrefix : "Corum_InComplexUnique_neg_linkages" # "PPP_negative_linkages_123_genes_non_unique"
+dataset_source : "Corum InComplex (Unique)" # "the PrePhyloPro paper"
+
+output_files_id : "no_transform"
+ROC_file_prefix : "ROC_Corum_InComplexUnique"
+PR_file_prefix : "PR_Corum_InComplexUnique"
+AUCs_file_prefix : "AUCs_Corum_InComplexUnique"
+
+ROC_title : "ROC curves of PPP"
+PR_title : "Precision-Recall curves of PPP"
+
+dataFolder : "../NPP_data"
+nppFilePrefix : "Homo_sapiens_NPP"
+
+NPPs : ["UniProt_062018", "UniProt_threshold_20.4__no_transform__divide__colzscore"]
+CORRELATIONs : ["pearson"]
+
+npp_colors:
+  UniProt_062018 : "lightseagreen"
+  UniProt_threshold_20.4__no_transform__divide__colzscore : "maroon3"
+
+npp_nice_names:
+  UniProt_062018 : "log2(x)"
+  UniProt_threshold_20.4__no_transform__divide__colzscore : "no transformation"
+
+numOfGenes : 20192

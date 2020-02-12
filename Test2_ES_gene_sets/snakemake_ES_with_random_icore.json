@@ -1,0 +1,29 @@
+{
+    "__default__" :
+    {
+      "cpus-per-task" : 1,
+      "mem-per-cpu" : "64000m",
+      "time" : "05:59:00",
+      "log" : "./logs/%x_%j.log"
+    },
+    "create_random_group_pairs" :
+    {
+      "cpus-per-task" : 8,
+      "time" : "02:59:00",
+      "mem-per-cpu" : "2000m"
+    },
+    "partial_calculate_ES_for_random_groups" :
+    {
+      "mem-per-cpu" : "40000m"
+    },
+    "merge_ES_values_files" :
+    {
+      "time" : "00:05:00",
+      "mem-per-cpu" : "100m"
+    },
+    "plot_ES_results_with_random" :
+    {
+      "mem-per-cpu" : "500m",
+      "time" : "00:30:00"
+    }
+}

@@ -1,0 +1,38 @@
+
+outputFolder : "Results"
+linkagesFolder : "Linkages"
+positiveLinkagesPrefix : "Corum_InComplexUnique_pos_linkages" # "PPP_positive_linkages_genes_non_unique"
+negativeLinkagesPrefix : "Corum_InComplexUnique_neg_linkages" # "PPP_negative_linkages_123_genes_non_unique"
+dataset_source : "Corum InComplex (Unique)" # "the PrePhyloPro paper"
+
+output_files_id : "transformations_newpalette"
+ROC_file_prefix : "ROC_Corum_InComplexUnique"
+PR_file_prefix : "PR_Corum_InComplexUnique"
+AUCs_file_prefix : "AUCs_Corum_InComplexUnique"
+
+ROC_title : "ROC curves of NPP with different transformations"
+PR_title : "Precision-Recall curves of NPP with different transformations"
+
+dataFolder : "../NPP_data"
+nppFilePrefix : "Homo_sapiens_NPP"
+
+NPPs : ["UniProt_062018", "UniProt_sqrt", "UniProt_1_divide_sqrt", "UniProt_1_divide_x", "UniProt_1_divide_x^2", "UniProt_1_divide_x^3"]
+CORRELATIONs : ["pearson"]
+
+npp_colors:
+  UniProt_sqrt : "#9db64d" # "#b8c155" # light mustard green
+  UniProt_062018 : "#9effc8" # "6aedd9" # light tourquose
+  UniProt_1_divide_x : "#50535a" # "#487b6b" # dark grey
+  UniProt_1_divide_sqrt : "#0094a9" #1aa76d" # green
+  'UniProt_1_divide_x^2' : "#c36454" ##b45b4d" # purple brown
+  'UniProt_1_divide_x^3' : "#9754b2" # "#8e56a9" # purple
+
+npp_nice_names:
+  UniProt_sqrt : "sqrt(x)"
+  UniProt_062018 : "log2(x)"
+  UniProt_1_divide_x : "1/x"
+  UniProt_1_divide_sqrt : "1/sqrt(x)"
+  'UniProt_1_divide_x^2' : "1/(x^2)"
+  'UniProt_1_divide_x^3' : "1/(x^3)"
+
+numOfGenes : 20192

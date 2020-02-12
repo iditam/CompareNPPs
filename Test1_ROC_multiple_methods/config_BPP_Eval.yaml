@@ -1,0 +1,28 @@
+
+outputFolder : "Results"
+linkagesFolder : "Linkages"
+positiveLinkagesPrefix : "Corum_InComplexUnique_pos_linkages" # "PPP_positive_linkages_genes_non_unique"
+negativeLinkagesPrefix : "Corum_InComplexUnique_neg_linkages" # "PPP_negative_linkages_123_genes_non_unique"
+dataset_source : "Corum InComplex (Unique)" # "the PrePhyloPro paper"
+
+output_files_id : "BPP_Eval_hamming"
+ROC_file_prefix : "ROC_Corum_InComplexUnique"
+PR_file_prefix : "PR_Corum_InComplexUnique"
+AUCs_file_prefix : "AUCs_Corum_InComplexUnique"
+
+ROC_title : "ROC curves of BPP (Eval)"
+PR_title : "Precision-Recall curves of BPP (Eval)"
+
+dataFolder : "../NPP_data"
+nppFilePrefix : "Homo_sapiens_NPP"
+
+NPPs : ["BPP_Eval"]
+CORRELATIONs : ["hamming"]
+
+npp_colors:
+  BPP_Eval : "red"
+
+npp_nice_names:
+  BPP_Eval : "BPP (Eval)"
+
+numOfGenes : 20192

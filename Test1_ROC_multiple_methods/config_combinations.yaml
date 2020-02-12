@@ -1,0 +1,92 @@
+
+outputFolder : "Results"
+linkagesFolder : "Linkages"
+positiveLinkagesPrefix : "Corum_InComplexUnique_pos_linkages" # "PPP_positive_linkages_genes_non_unique"
+negativeLinkagesPrefix : "Corum_InComplexUnique_neg_linkages" # "PPP_negative_linkages_123_genes_non_unique"
+dataset_source : "Corum InComplex" # "the PrePhyloPro paper"
+
+output_files_id : "combinations"
+ROC_file_prefix : "ROC_Corum_InComplexUnique"
+PR_file_prefix : "PR_Corum_InComplexUnique"
+AUCs_file_prefix : "AUCs_Corum_InComplexUnique"
+ROC_title : "ROC curves of NPP with different parameters"
+PR_title : "Precision-Recall curves of NPP with different parameters"
+# ROC_title : "ROC curves of NPP built with different thresholds"
+# PR_title : "Precision-Recall curves of NPP built with different thresholds"
+
+dataFolder : "../NPP_data"
+nppFilePrefix : "Homo_sapiens_NPP"
+
+NPPs_from_file : TRUE
+combinations_list_file : "combinations_list.csv"
+combinations_details_file : "combinations_details.csv"
+
+
+# NPPs : ["UniProt_062018", "UniProt_log2_before_divide"]
+CORRELATIONs : ["pearson", "spearman", "kendall"]
+
+# npp_colors:
+#   UniProt_log2_before_divide : "#7FC97F" # (light green)
+#   UniProt_062018 : "#F0027F" # (pink)
+#
+# npp_nice_names:
+#   UniProt_log2_before_divide : "log2 BEFORE division"
+#   UniProt_062018 : "log2 AFTER division"
+
+# NPPs : ["UniProt_062018", "UniProt_no_threshold", "UniProt_threshold_40", "UniProt_threshold_20.4_after_zscore", "UniProt_floored_0.01", "UniProt_floored_0.05"]
+# CORRELATIONs : ["pearson"] # ["pearson", "spearman", "kendall"]
+#
+# npp_colors:
+#   UniProt_062018 : "#7FC97F" # (light green)
+#   UniProt_no_threshold : "#F0027F" # (pink)
+#   UniProt_threshold_40 : "#BEAED4" # (lilach)
+#   'UniProt_threshold_20.4_after_zscore' : "#FDC086" # (gentle orange)
+#   'UniProt_floored_0.01' : "#FFFF99" # (light yellow)
+#   'UniProt_floored_0.05' : "#386CB0" # (silent blue)
+#
+# npp_nice_names:
+#   UniProt_062018 : "threshold 20.4"
+#   UniProt_no_threshold : "no threshold"
+#   UniProt_threshold_40 : "threshold 40"
+#   'UniProt_threshold_20.4_after_zscore' : "threshold 20.4 after zscore"
+#   'UniProt_floored_0.01' : "late flooring 0.01"
+#   'UniProt_floored_0.05' : "late flooring 0.05"
+
+# NPPs : ["UniProt_062018"]
+# CORRELATIONs : ["pearson", "spearman", "kendall"]
+#
+# npp_colors:
+#   UniProt_062018__pearson : "red"
+#   UniProt_062018__spearman : "blue"
+#   UniProt_062018__kendall : "green"
+#
+# npp_nice_names:
+#   UniProt_062018__pearson : "pearson"
+#   UniProt_062018__spearman : "spearman"
+#   UniProt_062018__kendall : "kendall"
+
+
+# NPPs : ["UniProt_062018", "UniProt_no_divide_by_query"]
+# CORRELATIONs : ["pearson"]
+#
+# npp_colors:
+#   UniProt_no_divide_by_query : "#7FC97F" # (light green)
+#   UniProt_062018 : "#F0027F" # (pink)
+#
+# npp_nice_names:
+#   UniProt_no_divide_by_query : "no dividing"
+#   UniProt_062018 : "divide by query"
+
+# geneCollectionResource : "KeggFromAPI"
+# geneGroupsRootFolder : "../Gene_sets"
+# collectionsFile : "kegg_files.csv"
+# collectionID : 1
+# collectionName : "kegg_pathway_genes"
+
+# geneCollectionResource : "MSigDB"
+# geneGroupsRootFolder : "../Gene_sets"
+# collectionsFile : "gmt_files.csv"
+# collectionID : 5
+# collectionName : "c2.cp.kegg.v6.0.symbols"
+
+numOfGenes : 20192

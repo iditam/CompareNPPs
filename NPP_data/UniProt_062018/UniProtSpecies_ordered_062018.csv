@@ -1,0 +1,1029 @@
+taxid,taxname,species,protnum,clade,Type
+9601,Pongo_abelii,Pongo_abelii,22000,Mammals,Mammals
+9598,Pan_troglodytes,Pan_troglodytes,23008,Mammals,Mammals
+9595,Gorilla_gorilla_gorilla,Gorilla_gorilla_gorilla,21796,Mammals,Mammals
+1868482,Carlito_syrichta,Carlito_syrichta,23332,Mammals,Mammals
+379532,Propithecus_coquereli,Propithecus_coquereli,17882,Mammals,Mammals
+61853,Nomascus_leucogenys,Nomascus_leucogenys,20762,Mammals,Mammals
+37293,Aotus_nancymaae,Aotus_nancymaae,20372,Mammals,Mammals
+30611,Otolemur_garnettii,Otolemur_garnettii,19451,Mammals,Mammals
+336983,Colobus_angolensis_palliatus,Colobus_angolensis_palliatus,20530,Mammals,Mammals
+61622,Rhinopithecus_roxellana,Rhinopithecus_roxellana,21115,Mammals,Mammals
+61621,Rhinopithecus_bieti,Rhinopithecus_bieti,20855,Mammals,Mammals
+60711,Chlorocebus_sabaeus,Chlorocebus_sabaeus,19141,Mammals,Mammals
+9568,Mandrillus_leucophaeus,Mandrillus_leucophaeus,20780,Mammals,Mammals
+9555,Papio_anubis,Papio_anubis,21568,Mammals,Mammals
+9545,Macaca_nemestrina,Macaca_nemestrina,21022,Mammals,Mammals
+9544,Macaca_mulatta,Macaca_mulatta,21211,Mammals,Mammals
+9541,Macaca_fascicularis,Macaca_fascicularis,17395,Mammals,Mammals
+9531,Cercocebus_atys,Cercocebus_atys,20885,Mammals,Mammals
+1737458,Cebus_capucinus_imitator,Cebus_capucinus_imitator,20237,Mammals,Mammals
+39432,Saimiri_boliviensis_boliviensis,Saimiri_boliviensis_boliviensis,19365,Mammals,Mammals
+9483,Callithrix_jacchus,Callithrix_jacchus,20990,Mammals,Mammals
+419612,Camelus_ferus,Camelus_ferus,20003,Mammals,Mammals
+246437,Tupaia_chinensis,Tupaia_chinensis,20824,Mammals,Mammals
+13616,Monodelphis_domestica,Monodelphis_domestica,21272,Mammals,Mammals
+43179,Ictidomys_tridecemlineatus,Ictidomys_tridecemlineatus,18446,Mammals,Mammals
+885580,Fukomys_damarensis,Fukomys_damarensis,20405,Mammals,Mammals
+10181,Heterocephalus_glaber,Heterocephalus_glaber,21445,Mammals,Mammals
+10141,Cavia_porcellus,Cavia_porcellus,18254,Mammals,Mammals
+10116,Rattus_norvegicus,Rattus_norvegicus,21466,Mammals,Mammals
+10090,Mus_musculus,Mus_musculus,22295,Mammals,Mammals
+56216,Neotoma_lepida,Neotoma_lepida,24274,Mammals,Mammals
+10036,Mesocricetus_auratus,Mesocricetus_auratus,20195,Mammals,Mammals
+10029,Cricetulus_griseus,Cricetulus_griseus,23881,Mammals,Mammals
+10020,Dipodomys_ordii,Dipodomys_ordii,19728,Mammals,Mammals
+9986,Oryctolagus_cuniculus,Oryctolagus_cuniculus,19905,Mammals,Mammals
+9940,Ovis_aries,Ovis_aries,21220,Mammals,Mammals
+9913,Bos_taurus,Bos_taurus,22008,Mammals,Mammals
+9823,Sus_scrofa,Sus_scrofa,23232,Mammals,Mammals
+9796,Equus_caballus,Equus_caballus,20497,Mammals,Mammals
+9785,Loxodonta_africana,Loxodonta_africana,20020,Mammals,Mammals
+9685,Felis_catus,Felis_catus,20447,Mammals,Mammals
+9669,Mustela_putorius_furo,Mustela_putorius_furo,19909,Mammals,Mammals
+9646,Ailuropoda_melanoleuca,Ailuropoda_melanoleuca,19344,Mammals,Mammals
+9615,Canis_lupus_familiaris,Canis_lupus_familiaris,20269,Mammals,Mammals
+225400,Myotis_davidii,Myotis_davidii,15446,Mammals,Mammals
+109478,Myotis_brandtii,Myotis_brandtii,19243,Mammals,Mammals
+59463,Myotis_lucifugus,Myotis_lucifugus,19662,Mammals,Mammals
+9402,Pteropus_alecto,Pteropus_alecto,19520,Mammals,Mammals
+9365,Erinaceus_europaeus,Erinaceus_europaeus,19242,Mammals,Mammals
+9305,Sarcophilus_harrisii,Sarcophilus_harrisii,18781,Mammals,Mammals
+9258,Ornithorhynchus_anatinus,Ornithorhynchus_anatinus,21677,Mammals,Mammals
+441894,Struthio_camelus_australis,Struthio_camelus_australis,13815,Other Vertebrates,Other Vertebrates
+345573,Podiceps_cristatus,Podiceps_cristatus,7899,Other Vertebrates,Other Vertebrates
+279965,Antrostomus_carolinensis,Antrostomus_carolinensis,8957,Other Vertebrates,Other Vertebrates
+175836,Buceros_rhinoceros_silvestris,Buceros_rhinoceros_silvestris,10603,Other Vertebrates,Other Vertebrates
+121530,Tauraco_erythrolophus,Tauraco_erythrolophus,10099,Other Vertebrates,Other Vertebrates
+118200,Picoides_pubescens,Picoides_pubescens,13097,Other Vertebrates,Other Vertebrates
+94827,Tinamus_guttatus,Tinamus_guttatus,13377,Other Vertebrates,Other Vertebrates
+188344,Leptosomus_discolor,Leptosomus_discolor,9574,Other Vertebrates,Other Vertebrates
+57421,Merops_nubicus,Merops_nubicus,7657,Other Vertebrates,Other Vertebrates
+57412,Colius_striatus,Colius_striatus,7080,Other Vertebrates,Other Vertebrates
+57397,Apaloderma_vittatum,Apaloderma_vittatum,7903,Other Vertebrates,Other Vertebrates
+328815,Manacus_vitellinus,Manacus_vitellinus,12707,Other Vertebrates,Other Vertebrates
+85066,Corvus_brachyrhynchos,Corvus_brachyrhynchos,13621,Other Vertebrates,Other Vertebrates
+59894,Ficedula_albicollis,Ficedula_albicollis,15290,Other Vertebrates,Other Vertebrates
+299123,Lonchura_striata_domestica,Lonchura_striata_domestica,15248,Other Vertebrates,Other Vertebrates
+59729,Taeniopygia_guttata,Taeniopygia_guttata,17429,Other Vertebrates,Other Vertebrates
+57068,Acanthisitta_chloris,Acanthisitta_chloris,9650,Other Vertebrates,Other Vertebrates
+56313,Tyto_alba,Tyto_alba,9263,Other Vertebrates,Other Vertebrates
+55661,Cuculus_canorus,Cuculus_canorus,13582,Other Vertebrates,Other Vertebrates
+54380,Cariama_cristata,Cariama_cristata,8694,Other Vertebrates,Other Vertebrates
+187382,Chlamydotis_macqueenii,Chlamydotis_macqueenii,8277,Other Vertebrates,Other Vertebrates
+100784,Balearica_regulorum_gibbericeps,Balearica_regulorum_gibbericeps,8821,Other Vertebrates,Other Vertebrates
+54383,Eurypyga_helias,Eurypyga_helias,7979,Other Vertebrates,Other Vertebrates
+54374,Mesitornis_unicolor,Mesitornis_unicolor,9395,Other Vertebrates,Other Vertebrates
+50402,Charadrius_vociferus,Charadrius_vociferus,14257,Other Vertebrates,Other Vertebrates
+240206,Pterocles_gutturalis,Pterocles_gutturalis,7373,Other Vertebrates,Other Vertebrates
+43455,Cathartes_aura,Cathartes_aura,7760,Other Vertebrates,Other Vertebrates
+37040,Gavia_stellata,Gavia_stellata,7730,Other Vertebrates,Other Vertebrates
+30455,Fulmarus_glacialis,Fulmarus_glacialis,8115,Other Vertebrates,Other Vertebrates
+30419,Opisthocomus_hoazin,Opisthocomus_hoazin,12773,Other Vertebrates,Other Vertebrates
+176057,Nestor_notabilis,Nestor_notabilis,9137,Other Vertebrates,Other Vertebrates
+12930,Amazona_aestiva,Amazona_aestiva,16092,Other Vertebrates,Other Vertebrates
+9238,Pygoscelis_adeliae,Pygoscelis_adeliae,12848,Other Vertebrates,Other Vertebrates
+9233,Aptenodytes_forsteri,Aptenodytes_forsteri,13704,Other Vertebrates,Other Vertebrates
+9218,Phoenicopterus_ruber_ruber,Phoenicopterus_ruber_ruber,8220,Other Vertebrates,Other Vertebrates
+188379,Egretta_garzetta,Egretta_garzetta,13489,Other Vertebrates,Other Vertebrates
+128390,Nipponia_nippon,Nipponia_nippon,14132,Other Vertebrates,Other Vertebrates
+97097,Phaethon_lepturus,Phaethon_lepturus,9152,Other Vertebrates,Other Vertebrates
+36300,Pelecanus_crispus,Pelecanus_crispus,8686,Other Vertebrates,Other Vertebrates
+9209,Phalacrocorax_carbo,Phalacrocorax_carbo,8990,Other Vertebrates,Other Vertebrates
+9103,Meleagris_gallopavo,Meleagris_gallopavo,14166,Other Vertebrates,Other Vertebrates
+9031,Gallus_gallus,Gallus_gallus,19122,Other Vertebrates,Other Vertebrates
+9014,Colinus_virginianus,Colinus_virginianus,17122,Other Vertebrates,Other Vertebrates
+9009,Callipepla_squamata,Callipepla_squamata,16973,Other Vertebrates,Other Vertebrates
+8969,Haliaeetus_albicilla,Haliaeetus_albicilla,8357,Other Vertebrates,Other Vertebrates
+372326,Patagioenas_fasciata_monilis,Patagioenas_fasciata_monilis,19485,Other Vertebrates,Other Vertebrates
+8932,Columba_livia,Columba_livia,14619,Other Vertebrates,Other Vertebrates
+9244,Calypte_anna,Calypte_anna,13267,Other Vertebrates,Other Vertebrates
+8897,Chaetura_pelagica,Chaetura_pelagica,3162,Other Vertebrates,Other Vertebrates
+8839,Anas_platyrhynchos,Anas_platyrhynchos,15659,Other Vertebrates,Other Vertebrates
+28377,Anolis_carolinensis,Anolis_carolinensis,18528,Other Vertebrates,Other Vertebrates
+8665,Ophiophagus_hannah,Ophiophagus_hannah,18387,Other Vertebrates,Other Vertebrates
+38654,Alligator_sinensis,Alligator_sinensis,18578,Other Vertebrates,Other Vertebrates
+8496,Alligator_mississippiensis,Alligator_mississippiensis,24656,Other Vertebrates,Other Vertebrates
+13735,Pelodiscus_sinensis,Pelodiscus_sinensis,18116,Other Vertebrates,Other Vertebrates
+8469,Chelonia_mydas,Chelonia_mydas,18960,Other Vertebrates,Other Vertebrates
+8400,Rana_catesbeiana,Rana_catesbeiana,22112,Other Vertebrates,Other Vertebrates
+8364,Xenopus_tropicalis,Xenopus_tropicalis,24202,Other Vertebrates,Other Vertebrates
+8355,Xenopus_laevis,Xenopus_laevis,41562,Other Vertebrates,Other Vertebrates
+215358,Larimichthys_crocea,Larimichthys_crocea,12677,Other Vertebrates,Other Vertebrates
+113540,Scleropages_formosus,Scleropages_formosus,24200,Other Vertebrates,Other Vertebrates
+69293,Gasterosteus_aculeatus,Gasterosteus_aculeatus,20666,Other Vertebrates,Other Vertebrates
+99883,Tetraodon_nigroviridis,Tetraodon_nigroviridis,19572,Other Vertebrates,Other Vertebrates
+31033,Takifugu_rubripes,Takifugu_rubripes,18563,Other Vertebrates,Other Vertebrates
+8128,Oreochromis_niloticus,Oreochromis_niloticus,21436,Other Vertebrates,Other Vertebrates
+8090,Oryzias_latipes,Oryzias_latipes,19698,Other Vertebrates,Other Vertebrates
+52670,Austrofundulus_limnaeus,Austrofundulus_limnaeus,23690,Other Vertebrates,Other Vertebrates
+48698,Poecilia_formosa,Poecilia_formosa,23408,Other Vertebrates,Other Vertebrates
+8083,Xiphophorus_maculatus,Xiphophorus_maculatus,20377,Other Vertebrates,Other Vertebrates
+8030,Salmo_salar,Salmo_salar,47719,Other Vertebrates,Other Vertebrates
+7998,Ictalurus_punctatus,Ictalurus_punctatus,24066,Other Vertebrates,Other Vertebrates
+7994,Astyanax_mexicanus,Astyanax_mexicanus,23016,Other Vertebrates,Other Vertebrates
+7955,Danio_rerio,Danio_rerio,25289,Other Vertebrates,Other Vertebrates
+7918,Lepisosteus_oculatus,Lepisosteus_oculatus,18320,Other Vertebrates,Other Vertebrates
+7897,Latimeria_chalumnae,Latimeria_chalumnae,19568,Other Vertebrates,Other Vertebrates
+34765,Oikopleura_dioica,Oikopleura_dioica,17050,Other Animals,Other Animals
+7739,Branchiostoma_floridae,Branchiostoma_floridae,28542,Other Animals,Other Animals
+51511,Ciona_savignyi,Ciona_savignyi,11592,Other Animals,Other Animals
+7719,Ciona_intestinalis,Ciona_intestinalis,16678,Other Animals,Other Animals
+1819745,Intoshia_linei,Intoshia_linei,8720,Other Animals,Other Animals
+400682,Amphimedon_queenslandica,Amphimedon_queenslandica,43435,Other Animals,Other Animals
+947166,Ramazzottius_varieornatus,Ramazzottius_varieornatus,22940,Other Animals,Other Animals
+232323,Hypsibius_dujardini,Hypsibius_dujardini,14162,Other Animals,Other Animals
+669202,Thelohanellus_kitauei,Thelohanellus_kitauei,14750,Other Animals,Other Animals
+50429,Stylophora_pistillata,Stylophora_pistillata,24067,Other Animals,Other Animals
+45351,Nematostella_vectensis,Nematostella_vectensis,24321,Other Animals,Other Animals
+10228,Trichoplax_adhaerens,Trichoplax_adhaerens,11513,Other Animals,Other Animals
+307972,Apostichopus_japonicus,Apostichopus_japonicus,30032,Other Animals,Other Animals
+7668,Strongylocentrotus_purpuratus,Strongylocentrotus_purpuratus,28594,Other Animals,Other Animals
+7574,Lingula_anatina,Lingula_anatina,28455,Other Animals,Other Animals
+126957,Strigamia_maritima,Strigamia_maritima,14959,Other Animals,Other Animals
+158441,Folsomia_candida,Folsomia_candida,28565,Other Animals,Other Animals
+48709,Orchesella_cincta,Orchesella_cincta,20218,Other Animals,Other Animals
+121224,Pediculus_humanus_corporis,Pediculus_humanus_corporis,10754,Other Animals,Other Animals
+136037,Zootermopsis_nevadensis,Zootermopsis_nevadensis,14526,Other Animals,Other Animals
+105785,Cryptotermes_secundus,Cryptotermes_secundus,17797,Other Animals,Other Animals
+178035,Dufourea_novaeangliae,Dufourea_novaeangliae,11355,Other Animals,Other Animals
+610380,Harpegnathos_saltator,Harpegnathos_saltator,15029,Other Animals,Other Animals
+456900,Cyphomyrmex_costatus,Cyphomyrmex_costatus,15716,Other Animals,Other Animals
+104421,Camponotus_floridanus,Camponotus_floridanus,14787,Other Animals,Other Animals
+103372,Acromyrmex_echinatior,Acromyrmex_echinatior,13962,Other Animals,Other Animals
+67767,Lasius_niger,Lasius_niger,18044,Other Animals,Other Animals
+471704,Trachymyrmex_cornetzi,Trachymyrmex_cornetzi,18657,Other Animals,Other Animals
+64791,Trachymyrmex_zeteki,Trachymyrmex_zeteki,14302,Other Animals,Other Animals
+34720,Trachymyrmex_septentrionalis,Trachymyrmex_septentrionalis,15167,Other Animals,Other Animals
+13686,Solenopsis_invicta,Solenopsis_invicta,13580,Other Animals,Other Animals
+520822,Atta_colombica,Atta_colombica,14143,Other Animals,Other Animals
+12957,Atta_cephalotes,Atta_cephalotes,10483,Other Animals,Other Animals
+597456,Habropoda_laboriosa,Habropoda_laboriosa,12781,Other Animals,Other Animals
+166423,Melipona_quadrifasciata,Melipona_quadrifasciata,14253,Other Animals,Other Animals
+7460,Apis_mellifera,Apis_mellifera,15323,Other Animals,Other Animals
+543379,Trichomalopsis_sarcophagae,Trichomalopsis_sarcophagae,16054,Other Animals,Other Animals
+7425,Nasonia_vitripennis,Nasonia_vitripennis,17019,Other Animals,Other Animals
+568069,Clunio_marinus,Clunio_marinus,21611,Other Animals,Other Animals
+36166,Megaselia_scalaris,Megaselia_scalaris,11461,Other Animals,Other Animals
+201502,Glossina_fuscipes_fuscipes,Glossina_fuscipes_fuscipes,20020,Other Animals,Other Animals
+67801,Glossina_palpalis_gambiensis,Glossina_palpalis_gambiensis,19951,Other Animals,Other Animals
+37546,Glossina_morsitans_morsitans,Glossina_morsitans_morsitans,12513,Other Animals,Other Animals
+37001,Glossina_brevipalpis,Glossina_brevipalpis,14620,Other Animals,Other Animals
+7398,Glossina_pallidipes,Glossina_pallidipes,19248,Other Animals,Other Animals
+7395,Glossina_austeni,Glossina_austeni,19640,Other Animals,Other Animals
+7375,Lucilia_cuprina,Lucilia_cuprina,14336,Other Animals,Other Animals
+35570,Stomoxys_calcitrans,Stomoxys_calcitrans,13962,Other Animals,Other Animals
+7370,Musca_domestica,Musca_domestica,14344,Other Animals,Other Animals
+46245,Drosophila_pseudoobscura_pseudoobscura,Drosophila_pseudoobscura_pseudoobscura,14473,Other Animals,Other Animals
+30025,Drosophila_ficusphila,Drosophila_ficusphila,15031,Other Animals,Other Animals
+30019,Drosophila_busckii,Drosophila_busckii,11914,Other Animals,Other Animals
+7260,Drosophila_willistoni,Drosophila_willistoni,13690,Other Animals,Other Animals
+7244,Drosophila_virilis,Drosophila_virilis,13539,Other Animals,Other Animals
+7240,Drosophila_simulans,Drosophila_simulans,14986,Other Animals,Other Animals
+7238,Drosophila_sechellia,Drosophila_sechellia,16095,Other Animals,Other Animals
+7234,Drosophila_persimilis,Drosophila_persimilis,16736,Other Animals,Other Animals
+7230,Drosophila_mojavensis,Drosophila_mojavensis,13349,Other Animals,Other Animals
+7227,Drosophila_melanogaster,Drosophila_melanogaster,13769,Other Animals,Other Animals
+7222,Drosophila_grimshawi,Drosophila_grimshawi,14380,Other Animals,Other Animals
+7217,Drosophila_ananassae,Drosophila_ananassae,14205,Other Animals,Other Animals
+29031,Phlebotomus_papatasi,Phlebotomus_papatasi,11186,Other Animals,Other Animals
+7200,Lutzomyia_longipalpis,Lutzomyia_longipalpis,10277,Other Animals,Other Animals
+7176,Culex_quinquefasciatus,Culex_quinquefasciatus,18662,Other Animals,Other Animals
+1518534,Anopheles_coluzzii,Anopheles_coluzzii,14512,Other Animals,Other Animals
+199890,Anopheles_epiroticus,Anopheles_epiroticus,11903,Other Animals,Other Animals
+139723,Anopheles_culicifacies,Anopheles_culicifacies,14305,Other Animals,Other Animals
+112268,Anopheles_minimus,Anopheles_minimus,12868,Other Animals,Other Animals
+74873,Anopheles_sinensis,Anopheles_sinensis,19343,Other Animals,Other Animals
+74869,Anopheles_maculatus,Anopheles_maculatus,14840,Other Animals,Other Animals
+69004,Anopheles_farauti,Anopheles_farauti,12978,Other Animals,Other Animals
+62324,Anopheles_funestus,Anopheles_funestus,13654,Other Animals,Other Animals
+43151,Anopheles_darlingi,Anopheles_darlingi,10447,Other Animals,Other Animals
+43041,Anopheles_christyi,Anopheles_christyi,10855,Other Animals,Other Animals
+41427,Anopheles_atroparvus,Anopheles_atroparvus,13759,Other Animals,Other Animals
+34691,Anopheles_quadriannulatus,Anopheles_quadriannulatus,13616,Other Animals,Other Animals
+34690,Anopheles_melas,Anopheles_melas,15186,Other Animals,Other Animals
+30069,Anopheles_stephensi,Anopheles_stephensi,11758,Other Animals,Other Animals
+30066,Anopheles_merus,Anopheles_merus,13208,Other Animals,Other Animals
+7173,Anopheles_arabiensis,Anopheles_arabiensis,13561,Other Animals,Other Animals
+7168,Anopheles_dirus,Anopheles_dirus,13007,Other Animals,Other Animals
+7167,Anopheles_albimanus,Anopheles_albimanus,12269,Other Animals,Other Animals
+7165,Anopheles_gambiae,Anopheles_gambiae,12428,Other Animals,Other Animals
+7160,Aedes_albopictus,Aedes_albopictus,17089,Other Animals,Other Animals
+7159,Aedes_aegypti,Aedes_aegypti,15586,Other Animals,Other Animals
+278856,Danaus_plexippus_plexippus,Danaus_plexippus_plexippus,15140,Other Animals,Other Animals
+104452,Operophtera_brumata,Operophtera_brumata,16814,Other Animals,Other Animals
+76193,Papilio_machaon,Papilio_machaon,15461,Other Animals,Other Animals
+66420,Papilio_xuthus,Papilio_xuthus,15265,Other Animals,Other Animals
+7102,Heliothis_virescens,Heliothis_virescens,14951,Other Animals,Other Animals
+7091,Bombyx_mori,Bombyx_mori,14773,Other Animals,Other Animals
+1629725,Oryctes_borbonicus,Oryctes_borbonicus,8820,Other Animals,Other Animals
+224129,Agrilus_planipennis,Agrilus_planipennis,11584,Other Animals,Other Animals
+77166,Dendroctonus_ponderosae,Dendroctonus_ponderosae,12069,Other Animals,Other Animals
+7070,Tribolium_castaneum,Tribolium_castaneum,16564,Other Animals,Other Animals
+121845,Diaphorina_citri,Diaphorina_citri,18136,Other Animals,Other Animals
+13249,Rhodnius_prolixus,Rhodnius_prolixus,14929,Other Animals,Other Animals
+7029,Acyrthosiphon_pisum,Acyrthosiphon_pisum,35810,Other Animals,Other Animals
+418985,Tropilaelaps_mercedesae,Tropilaelaps_mercedesae,14272,Other Animals,Other Animals
+407821,Stegodyphus_mimosarum,Stegodyphus_mimosarum,26987,Other Animals,Other Animals
+32264,Tetranychus_urticae,Tetranychus_urticae,17526,Other Animals,Other Animals
+52283,Sarcoptes_scabiei,Sarcoptes_scabiei,10468,Other Animals,Other Animals
+6958,Euroglyphus_maynei,Euroglyphus_maynei,15246,Other Animals,Other Animals
+6945,Ixodes_scapularis,Ixodes_scapularis,20468,Other Animals,Other Animals
+35525,Daphnia_magna,Daphnia_magna,26600,Other Animals,Other Animals
+6669,Daphnia_pulex,Daphnia_pulex,30021,Other Animals,Other Animals
+37653,Octopus_bimaculoides,Octopus_bimaculoides,32665,Other Animals,Other Animals
+29159,Crassostrea_gigas,Crassostrea_gigas,25946,Other Animals,Other Animals
+225164,Lottia_gigantea,Lottia_gigantea,23573,Other Animals,Other Animals
+6526,Biomphalaria_glabrata,Biomphalaria_glabrata,25536,Other Animals,Other Animals
+6412,Helobdella_robusta,Helobdella_robusta,23328,Other Animals,Other Animals
+241478,Soboliphyme_baturini,Soboliphyme_baturini,13171,Other Animals,Other Animals
+70415,Trichuris_muris,Trichuris_muris,10587,Other Animals,Other Animals
+68888,Trichuris_suis,Trichuris_suis,13959,Other Animals,Other Animals
+36087,Trichuris_trichiura,Trichuris_trichiura,9625,Other Animals,Other Animals
+990121,Trichinella_patagoniensis,Trichinella_patagoniensis,14635,Other Animals,Other Animals
+268475,Trichinella_zimbabwensis,Trichinella_zimbabwensis,14212,Other Animals,Other Animals
+268474,Trichinella_papuae,Trichinella_papuae,11419,Other Animals,Other Animals
+144512,Trichinella_murrelli,Trichinella_murrelli,14367,Other Animals,Other Animals
+92180,Trichinella_sp._T8,Trichinella_sp._T8,14641,Other Animals,Other Animals
+45882,Trichinella_britovi,Trichinella_britovi,15466,Other Animals,Other Animals
+6337,Trichinella_pseudospiralis,Trichinella_pseudospiralis,10629,Other Animals,Other Animals
+6336,Trichinella_nelsoni,Trichinella_nelsoni,13005,Other Animals,Other Animals
+6335,Trichinella_nativa,Trichinella_nativa,13202,Other Animals,Other Animals
+6334,Trichinella_spiralis,Trichinella_spiralis,15524,Other Animals,Other Animals
+54126,Pristionchus_pacificus,Pristionchus_pacificus,29080,Other Animals,Other Animals
+451379,Syphacia_muris,Syphacia_muris,11091,Other Animals,Other Animals
+51028,Enterobius_vermicularis,Enterobius_vermicularis,12869,Other Animals,Other Animals
+637853,Gongylonema_pulchrum,Gongylonema_pulchrum,26903,Other Animals,Other Animals
+318479,Dracunculus_medinensis,Dracunculus_medinensis,10898,Other Animals,Other Animals
+103827,Thelazia_callipaeda,Thelazia_callipaeda,10894,Other Animals,Other Animals
+1147741,Elaeophora_elaphi,Elaeophora_elaphi,10392,Other Animals,Other Animals
+7209,Loa_loa,Loa_loa,12173,Other Animals,Other Animals
+6293,Wuchereria_bancrofti,Wuchereria_bancrofti,19298,Other Animals,Other Animals
+387005,Onchocerca_flexuosa,Onchocerca_flexuosa,16106,Other Animals,Other Animals
+42157,Onchocerca_ochengi,Onchocerca_ochengi,13342,Other Animals,Other Animals
+6282,Onchocerca_volvulus,Onchocerca_volvulus,12118,Other Animals,Other Animals
+42155,Brugia_timori,Brugia_timori,16183,Other Animals,Other Animals
+6280,Brugia_pahangi,Brugia_pahangi,14603,Other Animals,Other Animals
+6279,Brugia_malayi,Brugia_malayi,10681,Other Animals,Other Animals
+6269,Anisakis_simplex,Anisakis_simplex,20758,Other Animals,Other Animals
+6265,Toxocara_canis,Toxocara_canis,18499,Other Animals,Other Animals
+6252,Ascaris_lumbricoides,Ascaris_lumbricoides,18550,Other Animals,Other Animals
+114890,Rhabditophanes_sp._KR3021,Rhabditophanes_sp._KR3021,13281,Other Animals,Other Animals
+37863,Steinernema_glaseri,Steinernema_glaseri,37047,Other Animals,Other Animals
+36090,Globodera_pallida,Globodera_pallida,16266,Other Animals,Other Animals
+6326,Bursaphelenchus_xylophilus,Bursaphelenchus_xylophilus,17485,Other Animals,Other Animals
+6305,Meloidogyne_hapla,Meloidogyne_hapla,14362,Other Animals,Other Animals
+131310,Parastrongyloides_trichosuri,Parastrongyloides_trichosuri,14865,Other Animals,Other Animals
+174720,Strongyloides_papillosus,Strongyloides_papillosus,18206,Other Animals,Other Animals
+75913,Strongyloides_venezuelensis,Strongyloides_venezuelensis,16598,Other Animals,Other Animals
+34506,Strongyloides_ratti,Strongyloides_ratti,9956,Other Animals,Other Animals
+6248,Strongyloides_stercoralis,Strongyloides_stercoralis,12823,Other Animals,Other Animals
+375939,Heligmosomoides_polygyrus_bakeri,Heligmosomoides_polygyrus_bakeri,23051,Other Animals,Other Animals
+61180,Oesophagostomum_dentatum,Oesophagostomum_dentatum,25133,Other Animals,Other Animals
+51031,Necator_americanus,Necator_americanus,19125,Other Animals,Other Animals
+53326,Ancylostoma_ceylanicum,Ancylostoma_ceylanicum,36519,Other Animals,Other Animals
+51022,Ancylostoma_duodenale,Ancylostoma_duodenale,27403,Other Animals,Other Animals
+37862,Heterorhabditis_bacteriophora,Heterorhabditis_bacteriophora,20833,Other Animals,Other Animals
+29172,Dictyocaulus_viviparus,Dictyocaulus_viviparus,14161,Other Animals,Other Animals
+27835,Nippostrongylus_brasiliensis,Nippostrongylus_brasiliensis,22654,Other Animals,Other Animals
+334426,Angiostrongylus_costaricensis,Angiostrongylus_costaricensis,13378,Other Animals,Other Animals
+6313,Angiostrongylus_cantonensis,Angiostrongylus_cantonensis,14486,Other Animals,Other Animals
+6290,Haemonchus_placei,Haemonchus_placei,21889,Other Animals,Other Animals
+6289,Haemonchus_contortus,Haemonchus_contortus,21201,Other Animals,Other Animals
+1611254,Caenorhabditis_nigoni,Caenorhabditis_nigoni,28846,Other Animals,Other Animals
+1561998,Caenorhabditis_tropicalis,Caenorhabditis_tropicalis,27157,Other Animals,Other Animals
+1503980,Caenorhabditis_latens,Caenorhabditis_latens,24651,Other Animals,Other Animals
+281687,Caenorhabditis_japonica,Caenorhabditis_japonica,28999,Other Animals,Other Animals
+135651,Caenorhabditis_brenneri,Caenorhabditis_brenneri,29979,Other Animals,Other Animals
+31234,Caenorhabditis_remanei,Caenorhabditis_remanei,31243,Other Animals,Other Animals
+6239,Caenorhabditis_elegans,Caenorhabditis_elegans,19921,Other Animals,Other Animals
+6238,Caenorhabditis_briggsae,Caenorhabditis_briggsae,21723,Other Animals,Other Animals
+282301,Macrostomum_lignano,Macrostomum_lignano,52438,Other Animals,Other Animals
+70667,Schistocephalus_solidus,Schistocephalus_solidus,20215,Other Animals,Other Animals
+53468,Mesocestoides_corti,Mesocestoides_corti,10595,Other Animals,Other Animals
+102285,Hymenolepis_nana,Hymenolepis_nana,13722,Other Animals,Other Animals
+85433,Hymenolepis_microstoma,Hymenolepis_microstoma,12000,Other Animals,Other Animals
+6216,Hymenolepis_diminuta,Hymenolepis_diminuta,11247,Other Animals,Other Animals
+60517,Taenia_asiatica,Taenia_asiatica,10315,Other Animals,Other Animals
+6211,Echinococcus_multilocularis,Echinococcus_multilocularis,10472,Other Animals,Other Animals
+6210,Echinococcus_granulosus,Echinococcus_granulosus,11279,Other Animals,Other Animals
+6205,Hydatigera_taeniaeformis,Hydatigera_taeniaeformis,11628,Other Animals,Other Animals
+27848,Echinostoma_caproni,Echinostoma_caproni,18519,Other Animals,Other Animals
+79923,Clonorchis_sinensis,Clonorchis_sinensis,13606,Other Animals,Other Animals
+6198,Opisthorchis_viverrini,Opisthorchis_viverrini,16307,Other Animals,Other Animals
+157069,Trichobilharzia_regenti,Trichobilharzia_regenti,22144,Other Animals,Other Animals
+48269,Schistosoma_margrebowiei,Schistosoma_margrebowiei,26063,Other Animals,Other Animals
+31246,Schistosoma_mattheei,Schistosoma_mattheei,22959,Other Animals,Other Animals
+6188,Schistosoma_rodhaini,Schistosoma_rodhaini,23856,Other Animals,Other Animals
+6186,Schistosoma_curassoni,Schistosoma_curassoni,23349,Other Animals,Other Animals
+6185,Schistosoma_haematobium,Schistosoma_haematobium,11119,Other Animals,Other Animals
+6183,Schistosoma_mansoni,Schistosoma_mansoni,10725,Other Animals,Other Animals
+1813822,fungal_sp._No.14919,fungal_sp._No.14919,14332,Fungi,Fungi
+1603295,fungal_sp._No.11243,fungal_sp._No.11243,9692,Fungi,Fungi
+988480,Rozella_allomycis_CSF55,Rozella_allomycis_CSF55,6337,Fungi,Fungi
+765915,Catenaria_anguillulae_PL171,Catenaria_anguillulae_PL171,12590,Fungi,Fungi
+578462,Allomyces_macrogynus_ATCC_38327,Allomyces_macrogynus_ATCC_38327,18611,Fungi,Fungi
+1344416,Gonapodya_prolifera_JEL478,Gonapodya_prolifera_JEL478,13797,Fungi,Fungi
+645134,Spizellomyces_punctatus_DAOM_BR117,Spizellomyces_punctatus_DAOM_BR117,8940,Fungi,Fungi
+1357716,Batrachochytrium_salamandrivorans,Batrachochytrium_salamandrivorans,10107,Fungi,Fungi
+684364,Batrachochytrium_dendrobatidis_JAM81,Batrachochytrium_dendrobatidis_JAM81,8610,Fungi,Fungi
+329046,Rhizoclosmatium_globosum,Rhizoclosmatium_globosum,16725,Fungi,Fungi
+1754192,Anaeromyces_robustus,Anaeromyces_robustus,12656,Fungi,Fungi
+1754190,Neocallimastix_californiae,Neocallimastix_californiae,19950,Fungi,Fungi
+1754191,Piromyces_finnis,Piromyces_finnis,10768,Fungi,Fungi
+73868,Piromyces_sp._E2,Piromyces_sp._E2,14606,Fungi,Fungi
+1314790,Basidiobolus_meristosporus_CBS_931.73,Basidiobolus_meristosporus_CBS_931.73,15513,Fungi,Fungi
+796925,Conidiobolus_coronatus_NRRL_28638,Conidiobolus_coronatus_NRRL_28638,10563,Fungi,Fungi
+1213189,Zancudomyces_culisetae,Zancudomyces_culisetae,7387,Fungi,Fungi
+133412,Smittium_culicis,Smittium_culicis,10832,Fungi,Fungi
+133383,Smittium_mucronatum,Smittium_mucronatum,7962,Fungi,Fungi
+61395,Linderina_pennispora,Linderina_pennispora,9274,Fungi,Fungi
+1866961,Amphiamblys_sp._WSBS2006,Amphiamblys_sp._WSBS2006,3608,Fungi,Fungi
+1485682,Mitosporidium_daphniae,Mitosporidium_daphniae,3256,Fungi,Fungi
+1358809,Spraguea_lophii_42_110,Spraguea_lophii_42_110,2499,Fungi,Fungi
+1354746,Ordospora_colligata_OC4,Ordospora_colligata_OC4,1810,Fungi,Fungi
+1240240,Anncaliia_algerae_PRA109,Anncaliia_algerae_PRA109,5143,Fungi,Fungi
+1003232,Edhazardia_aedis_USNM_41457,Edhazardia_aedis_USNM_41457,4189,Fungi,Fungi
+1805483,Nematocida_displodere,Nematocida_displodere,2241,Fungi,Fungi
+944018,Nematocida_sp._1_ERTm2,Nematocida_sp._1_ERTm2,2769,Fungi,Fungi
+935791,Nematocida_parisii_ERTm3,Nematocida_parisii_ERTm3,2724,Fungi,Fungi
+1081671,Enterospora_canceri,Enterospora_canceri,2147,Fungi,Fungi
+1081669,Hepatospora_eriocheir,Hepatospora_eriocheir,2687,Fungi,Fungi
+646526,Enterocytozoon_hepatopenaei,Enterocytozoon_hepatopenaei,2431,Fungi,Fungi
+481877,Enterocytozoon_bieneusi_H348,Enterocytozoon_bieneusi_H348,3311,Fungi,Fungi
+284813,Encephalitozoon_cuniculi_GB-M1,Encephalitozoon_cuniculi_GB-M1,2041,Fungi,Fungi
+146866,Pseudoloma_neurophilia,Pseudoloma_neurophilia,3636,Fungi,Fungi
+948595,Vavraia_culicis_subsp._floridensis,Vavraia_culicis_subsp._floridensis,2768,Fungi,Fungi
+72359,Trachipleistophora_hominis,Trachipleistophora_hominis,3212,Fungi,Fungi
+993615,Vittaforma_corneae_ATCC_50505,Vittaforma_corneae_ATCC_50505,2236,Fungi,Fungi
+40302,Nosema_ceranae,Nosema_ceranae,3200,Fungi,Fungi
+1037528,Nosema_apis_BRL_01,Nosema_apis_BRL_01,2727,Fungi,Fungi
+578461,Nosema_bombycis_CQ1,Nosema_bombycis_CQ1,4398,Fungi,Fungi
+1858805,Dacryopinax_primogenitus,Dacryopinax_primogenitus,10233,Fungi,Fungi
+1353952,Calocera_cornea_HHB12733,Calocera_cornea_HHB12733,13076,Fungi,Fungi
+1330018,Calocera_viscosa_TUFC12733,Calocera_viscosa_TUFC12733,12317,Fungi,Fungi
+764103,Mixia_osmundae_IAM_14324,Mixia_osmundae_IAM_14324,6725,Fungi,Fungi
+1299270,Wallemia_ichthyophaga_EXF-994,Wallemia_ichthyophaga_EXF-994,4836,Fungi,Fungi
+671144,Wallemia_mellicola_CBS_633.66,Wallemia_mellicola_CBS_633.66,5260,Fungi,Fungi
+1365824,Kalmanozyma_brasiliensis_GHG001,Kalmanozyma_brasiliensis_GHG001,5765,Fungi,Fungi
+1305764,Pseudozyma_hubeiensis_SY62,Pseudozyma_hubeiensis_SY62,7472,Fungi,Fungi
+1277687,Anthracocystis_flocculosa_PF-1,Anthracocystis_flocculosa_PF-1,4425,Fungi,Fungi
+999809,Sporisorium_reilianum_SRZ2,Sporisorium_reilianum_SRZ2,6673,Fungi,Fungi
+1128400,Ustilago_hordei_Uh4857-4,Ustilago_hordei_Uh4857-4,7110,Fungi,Fungi
+237631,Ustilago_maydis_521,Ustilago_maydis_521,6788,Fungi,Fungi
+1151754,Moesziomyces_antarcticus_T-34,Moesziomyces_antarcticus_T-34,6543,Fungi,Fungi
+1230383,Malassezia_sympodialis_ATCC_42132,Malassezia_sympodialis_ATCC_42132,3318,Fungi,Fungi
+425265,Malassezia_globosa_CBS_7966,Malassezia_globosa_CBS_7966,4273,Fungi,Fungi
+77020,Malassezia_pachydermatis,Malassezia_pachydermatis,4201,Fungi,Fungi
+747676,Melampsora_larici-populina_98AG31,Melampsora_larici-populina_98AG31,16237,Fungi,Fungi
+1165861,Puccinia_striiformis_f._sp._tritici_PST-78,Puccinia_striiformis_f._sp._tritici_PST-78,19368,Fungi,Fungi
+630390,Puccinia_triticina_1-1_BBBD_Race_1,Puccinia_triticina_1-1_BBBD_Race_1,14860,Fungi,Fungi
+418459,Puccinia_graminis_f._sp._tritici_CRL_75-36-700-3,Puccinia_graminis_f._sp._tritici_CRL_75-36-700-3,15688,Fungi,Fungi
+27349,Puccinia_sorghi,Puccinia_sorghi,21032,Fungi,Fungi
+1037660,Tilletiaria_anomala_UBC_951,Tilletiaria_anomala_UBC_951,6806,Fungi,Fungi
+401625,Ceraceosorus_bombacis,Ceraceosorus_bombacis,8017,Fungi,Fungi
+117179,Tilletia_walkeri,Tilletia_walkeri,7968,Fungi,Fungi
+13291,Tilletia_controversa,Tilletia_controversa,9854,Fungi,Fungi
+1314777,Sistotremastrum_niveocremeum_HHB9708,Sistotremastrum_niveocremeum_HHB9708,13030,Fungi,Fungi
+1314776,Sistotremastrum_suecicum_HHB10207_ss-3,Sistotremastrum_suecicum_HHB10207_ss-3,13630,Fungi,Fungi
+990650,Sphaerobolus_stellatus_SS14,Sphaerobolus_stellatus_SS14,24605,Fungi,Fungi
+944288,Plicaturopsis_crispa_FD-325_SS-3,Plicaturopsis_crispa_FD-325_SS-3,2709,Fungi,Fungi
+1109443,Serendipita_indica_DSM_11827,Serendipita_indica_DSM_11827,11780,Fungi,Fungi
+933852,Serendipita_vermifera_MAFF_305830,Serendipita_vermifera_MAFF_305830,15010,Fungi,Fungi
+933084,Jaapia_argillacea_MUCL_33604,Jaapia_argillacea_MUCL_33604,16339,Fungi,Fungi
+741275,Punctularia_strigosozonata_HHB-11173_SS5,Punctularia_strigosozonata_HHB-11173_SS5,2093,Fungi,Fungi
+1314672,Peniophora_sp._CONT,Peniophora_sp._CONT,18907,Fungi,Fungi
+747525,Heterobasidion_irregulare_TC_32-1,Heterobasidion_irregulare_TC_32-1,13148,Fungi,Fungi
+721885,Stereum_hirsutum_FP-91666_SS1,Stereum_hirsutum_FP-91666_SS1,1609,Fungi,Fungi
+1314781,Exidia_glandulosa_HHB12029,Exidia_glandulosa_HHB12029,26305,Fungi,Fungi
+717982,Auricularia_subglabra_TFB-10046_SS5,Auricularia_subglabra_TFB-10046_SS5,5290,Fungi,Fungi
+1314782,Neolentinus_lepideus_HHB14362_ss-1,Neolentinus_lepideus_HHB14362_ss-1,13106,Fungi,Fungi
+670483,Gloeophyllum_trabeum_ATCC_11539,Gloeophyllum_trabeum_ATCC_11539,11735,Fungi,Fungi
+1051891,Tulasnella_calospora_MUT_4182,Tulasnella_calospora_MUT_4182,19349,Fungi,Fungi
+930990,Botryobasidium_botryosum_FD-172_SS1,Botryobasidium_botryosum_FD-172_SS1,16483,Fungi,Fungi
+1287689,Rhizoctonia_solani_AG-8_WAC10335,Rhizoctonia_solani_AG-8_WAC10335,13948,Fungi,Fungi
+765440,Piloderma_croceum_F_1598,Piloderma_croceum_F_1598,21351,Fungi,Fungi
+436010,Fibularhizoctonia_sp._CBS_109695,Fibularhizoctonia_sp._CBS_109695,31934,Fungi,Fungi
+1036808,Scleroderma_citrinum_Foug_A,Scleroderma_citrinum_Foug_A,20898,Fungi,Fungi
+936435,Serpula_lacrymans_var._lacrymans_S7.3,Serpula_lacrymans_var._lacrymans_S7.3,14339,Fungi,Fungi
+930992,Suillus_luteus_UH-Slu-Lm8-n1,Suillus_luteus_UH-Slu-Lm8-n1,18271,Fungi,Fungi
+870435,Pisolithus_tinctorius_Marx_270,Pisolithus_tinctorius_Marx_270,22400,Fungi,Fungi
+765257,Pisolithus_microcarpus_441,Pisolithus_microcarpus_441,20734,Fungi,Fungi
+741705,Coniophora_puteana_RWD-64-598_SS2,Coniophora_puteana_RWD-64-598_SS2,1010,Fungi,Fungi
+994086,Hydnomerulius_pinastri_MD-312,Hydnomerulius_pinastri_MD-312,7781,Fungi,Fungi
+930991,Paxillus_rubicundulus_Ve08.2h10,Paxillus_rubicundulus_Ve08.2h10,21895,Fungi,Fungi
+664439,Paxillus_involutus_ATCC_200175,Paxillus_involutus_ATCC_200175,11649,Fungi,Fungi
+1314800,Rhizopogon_vinicolor_AM-OR11-026,Rhizopogon_vinicolor_AM-OR11-026,14447,Fungi,Fungi
+180088,Rhizopogon_vesiculosus,Rhizopogon_vesiculosus,14140,Fungi,Fungi
+694068,Fomitiporia_mediterranea_MF3/22,Fomitiporia_mediterranea_MF3/22,531,Fungi,Fungi
+418867,Phellinus_noxius,Phellinus_noxius,9801,Fungi,Fungi
+27342,Schizopora_paradoxa,Schizopora_paradoxa,17050,Fungi,Fungi
+914234,Gelatoporia_subvermispora_B,Gelatoporia_subvermispora_B,12077,Fungi,Fungi
+1314783,Daedalea_quercina_L-15889,Daedalea_quercina_L-15889,12169,Fungi,Fungi
+743788,Fomitopsis_pinicola_FP-58527_SS1,Fomitopsis_pinicola_FP-58527_SS1,13805,Fungi,Fungi
+1314785,Laetiporus_sulphureus_93-53,Laetiporus_sulphureus_93-53,13707,Fungi,Fungi
+742152,Wolfiporia_cocos_MD-104_SS10,Wolfiporia_cocos_MD-104_SS10,12197,Fungi,Fungi
+745531,Phlebiopsis_gigantea_11061_1_CR5-6,Phlebiopsis_gigantea_11061_1_CR5-6,11848,Fungi,Fungi
+650164,Phanerochaete_carnosa_HHB-10118-sp,Phanerochaete_carnosa_HHB-10118-sp,13867,Fungi,Fungi
+599839,Fibroporia_radiculosa,Fibroporia_radiculosa,9251,Fungi,Fungi
+561896,Postia_placenta_Mad-698-R,Postia_placenta_Mad-698-R,8983,Fungi,Fungi
+98765,Phlebia_centrifuga,Phlebia_centrifuga,13515,Fungi,Fungi
+732165,Dichomitus_squalens_LYAD-421_SS1,Dichomitus_squalens_LYAD-421_SS1,7183,Fungi,Fungi
+717944,Trametes_versicolor_FP-101664_SS1,Trametes_versicolor_FP-101664_SS1,1021,Fungi,Fungi
+154538,Trametes_pubescens,Trametes_pubescens,14147,Fungi,Fungi
+5643,Trametes_cinnabarina,Trametes_cinnabarina,10180,Fungi,Fungi
+5627,Grifola_frondosa,Grifola_frondosa,14985,Fungi,Fungi
+1137138,Pleurotus_ostreatus_PC15,Pleurotus_ostreatus_PC15,12186,Fungi,Fungi
+1128425,Fistulina_hepatica_ATCC_64428,Fistulina_hepatica_ATCC_64428,9322,Fungi,Fungi
+946122,Amanita_muscaria_Koide_BX008,Amanita_muscaria_Koide_BX008,17947,Fungi,Fungi
+686832,Hebeloma_cylindrosporum_h7,Hebeloma_cylindrosporum_h7,15324,Fungi,Fungi
+945553,Hypholoma_sublateritium_FD-334_SS-4,Hypholoma_sublateritium_FD-334_SS-4,17633,Fungi,Fungi
+685588,Galerina_marginata_CBS_339.88,Galerina_marginata_CBS_339.88,21354,Fungi,Fungi
+1714833,Leucoagaricus_sp._SymC.cos,Leucoagaricus_sp._SymC.cos,12747,Fungi,Fungi
+597362,Agaricus_bisporus_var._burnettii_JB137-S8,Agaricus_bisporus_var._burnettii_JB137-S8,11204,Fungi,Fungi
+578458,Schizophyllum_commune_H4-8,Schizophyllum_commune_H4-8,13124,Fungi,Fungi
+1095629,Laccaria_amethystina_LaAM-08-1,Laccaria_amethystina_LaAM-08-1,20880,Fungi,Fungi
+486041,Laccaria_bicolor_S238N-H82,Laccaria_bicolor_S238N-H82,17895,Fungi,Fungi
+240176,Coprinopsis_cinerea_okayama7#130,Coprinopsis_cinerea_okayama7#130,13334,Fungi,Fungi
+221103,Moniliophthora_roreri,Moniliophthora_roreri,19789,Fungi,Fungi
+554373,Moniliophthora_perniciosa_FA553,Moniliophthora_perniciosa_FA553,13649,Fungi,Fungi
+1314674,Cylindrobasidium_torrendii_FP15055_ss-10,Cylindrobasidium_torrendii_FP15055_ss-10,13892,Fungi,Fungi
+1076256,Armillaria_solidipes,Armillaria_solidipes,20715,Fungi,Fungi
+47428,Armillaria_ostoyae,Armillaria_ostoyae,22192,Fungi,Fungi
+47427,Armillaria_gallica,Armillaria_gallica,25522,Fungi,Fungi
+1306850,Termitomyces_sp._J132,Termitomyces_sp._J132,11124,Fungi,Fungi
+39966,Hypsizygus_marmoreus,Hypsizygus_marmoreus,15519,Fungi,Fungi
+944289,Gymnopus_luxurians_FD-317_M1,Gymnopus_luxurians_FD-317_M1,14578,Fungi,Fungi
+5353,Lentinula_edodes,Lentinula_edodes,12046,Fungi,Fungi
+683840,Microbotryum_lychnidis-dioicae_p1A1_Lamole,Microbotryum_lychnidis-dioicae_p1A1_Lamole,7354,Fungi,Fungi
+269621,Microbotryum_intermedium,Microbotryum_intermedium,8013,Fungi,Fungi
+106004,Leucosporidium_creatinivorum,Leucosporidium_creatinivorum,9828,Fungi,Fungi
+1305733,Rhodotorula_sp._JG-1b,Rhodotorula_sp._JG-1b,6678,Fungi,Fungi
+578459,Rhodotorula_graminis_WP1,Rhodotorula_graminis_WP1,7225,Fungi,Fungi
+1130832,Rhodotorula_toruloides_NP11,Rhodotorula_toruloides_NP11,8138,Fungi,Fungi
+1220162,Trichosporon_asahii_var._asahii_CBS_8904,Trichosporon_asahii_var._asahii_CBS_8904,8515,Fungi,Fungi
+879819,Cutaneotrichosporon_oleaginosum,Cutaneotrichosporon_oleaginosum,8317,Fungi,Fungi
+578456,Tremella_mesenterica_DSM_1558,Tremella_mesenterica_DSM_1558,1453,Fungi,Fungi
+1331196,Kwoniella_mangroviensis_CBS_10435,Kwoniella_mangroviensis_CBS_10435,8428,Fungi,Fungi
+1296121,Kwoniella_dejecticola_CBS_10117,Kwoniella_dejecticola_CBS_10117,8600,Fungi,Fungi
+1296120,Kwoniella_heveanensis_BCC8398,Kwoniella_heveanensis_BCC8398,7924,Fungi,Fungi
+1296100,Kwoniella_bestiolae_CBS_10118,Kwoniella_bestiolae_CBS_10118,9131,Fungi,Fungi
+1296096,Kwoniella_pini_CBS_10737,Kwoniella_pini_CBS_10737,7827,Fungi,Fungi
+1295533,Cryptococcus_amylolentus_CBS_6039,Cryptococcus_amylolentus_CBS_6039,8246,Fungi,Fungi
+1295531,Cryptococcus_depauperatus_CBS_7841,Cryptococcus_depauperatus_CBS_7841,6530,Fungi,Fungi
+367775,Cryptococcus_gattii_WM276,Cryptococcus_gattii_WM276,6560,Fungi,Fungi
+235443,Cryptococcus_neoformans_var._grubii_H99,Cryptococcus_neoformans_var._grubii_H99,6965,Fungi,Fungi
+71784,Naematelia_encephala,Naematelia_encephala,7963,Fungi,Fungi
+4999,Kockovaella_imperatae,Kockovaella_imperatae,7388,Fungi,Fungi
+1328760,Xylona_heveae_TC161,Xylona_heveae_TC161,8201,Fungi,Fungi
+1198029,Neolecta_irregularis_DAH-3,Neolecta_irregularis_DAH-3,5530,Fungi,Fungi
+1408657,Pneumocystis_jirovecii_RU7,Pneumocystis_jirovecii_RU7,3746,Fungi,Fungi
+1069680,Pneumocystis_murina_B123,Pneumocystis_murina_B123,3635,Fungi,Fungi
+1284197,Dactylellina_haptotyla_CBS_200.50,Dactylellina_haptotyla_CBS_200.50,10959,Fungi,Fungi
+1043628,Drechslerella_stenobrocha_248,Drechslerella_stenobrocha_248,5595,Fungi,Fungi
+756982,Arthrobotrys_oligospora_ATCC_24927,Arthrobotrys_oligospora_ATCC_24927,11478,Fungi,Fungi
+698492,Saitoella_complicata_NRRL_Y-17804,Saitoella_complicata_NRRL_Y-17804,7118,Fungi,Fungi
+1076935,Pyronema_omphalodes_CBS_100304,Pyronema_omphalodes_CBS_100304,13306,Fungi,Fungi
+656061,Tuber_melanosporum_Mel28,Tuber_melanosporum_Mel28,7494,Fungi,Fungi
+653667,Schizosaccharomyces_cryophilus_OY26,Schizosaccharomyces_cryophilus_OY26,5135,Fungi,Fungi
+402676,Schizosaccharomyces_japonicus_yFS275,Schizosaccharomyces_japonicus_yFS275,4852,Fungi,Fungi
+284812,Schizosaccharomyces_pombe_972h-,Schizosaccharomyces_pombe_972h-,5142,Fungi,Fungi
+136370,Umbilicaria_pustulata,Umbilicaria_pustulata,8267,Fungi,Fungi
+1097556,Taphrina_deformans_PYCC_5710,Taphrina_deformans_PYCC_5710,4650,Fungi,Fungi
+56484,Protomyces_lactucaedebilis,Protomyces_lactucaedebilis,6702,Fungi,Fungi
+913774,Oidiodendron_maius_Zn,Oidiodendron_maius_Zn,16696,Fungi,Fungi
+1420913,Pseudogymnoascus_sp._VKM_F-4518_(FW-2643),Pseudogymnoascus_sp._VKM_F-4518_(FW-2643),11618,Fungi,Fungi
+658429,Pseudogymnoascus_destructans_20631-21,Pseudogymnoascus_destructans_20631-21,9073,Fungi,Fungi
+342668,Pseudogymnoascus_verrucosus,Pseudogymnoascus_verrucosus,10682,Fungi,Fungi
+1116229,Glarea_lozoyensis_ATCC_20868,Glarea_lozoyensis_ATCC_20868,13082,Fungi,Fungi
+1072389,Marssonina_brunnea_f._sp._'multigermtubi'_MB_m1,Marssonina_brunnea_f._sp._'multigermtubi'_MB_m1,10037,Fungi,Fungi
+946125,Diplocarpon_rosae,Diplocarpon_rosae,13660,Fungi,Fungi
+914237,Rhynchosporium_commune,Rhynchosporium_commune,12210,Fungi,Fungi
+999810,Botrytis_cinerea_T4,Botrytis_cinerea_T4,16338,Fungi,Fungi
+1432307,Sclerotinia_borealis_F-4128,Sclerotinia_borealis_F-4128,10165,Fungi,Fungi
+665079,Sclerotinia_sclerotiorum_1980_UF-70,Sclerotinia_sclerotiorum_1980_UF-70,14445,Fungi,Fungi
+576137,Phialocephala_subalpina,Phialocephala_subalpina,20170,Fungi,Fungi
+149040,Phialocephala_scopiformis,Phialocephala_scopiformis,18561,Fungi,Fungi
+546991,Blumeria_graminis_f._sp._hordei_DH14,Blumeria_graminis_f._sp._hordei_DH14,6486,Fungi,Fungi
+52586,Erysiphe_necator,Erysiphe_necator,6482,Fungi,Fungi
+1408157,Coniochaeta_ligniaria_NRRL_30616,Coniochaeta_ligniaria_NRRL_30616,13658,Fungi,Fungi
+1286976,Phaeoacremonium_minimum_UCRPA7,Phaeoacremonium_minimum_UCRPA7,8833,Fungi,Fungi
+1262450,Ophiostoma_piceae_UAMH_11346,Ophiostoma_piceae_UAMH_11346,8878,Fungi,Fungi
+1397361,Sporothrix_schenckii_1099-18,Sporothrix_schenckii_1099-18,10292,Fungi,Fungi
+1081102,Sporothrix_insectorum_RCEF_264,Sporothrix_insectorum_RCEF_264,9495,Fungi,Fungi
+655863,Grosmannia_clavigera_kw1407,Grosmannia_clavigera_kw1407,8311,Fungi,Fungi
+644358,Magnaporthiopsis_poae_ATCC_64411,Magnaporthiopsis_poae_ATCC_64411,11206,Fungi,Fungi
+644352,Gaeumannomyces_tritici_R3-111a-1,Gaeumannomyces_tritici_R3-111a-1,14188,Fungi,Fungi
+242507,Magnaporthe_oryzae_70-15,Magnaporthe_oryzae_70-15,12675,Fungi,Fungi
+1214573,Diaporthe_ampelina,Diaporthe_ampelina,10703,Fungi,Fungi
+158607,Diaporthe_helianthi,Diaporthe_helianthi,13137,Fungi,Fungi
+515849,Podospora_anserina_S_mat+,Podospora_anserina_S_mat+,10657,Fungi,Fungi
+771870,Sordaria_macrospora_k-hell,Sordaria_macrospora_k-hell,9890,Fungi,Fungi
+510952,Neurospora_tetrasperma_FGSC_2509,Neurospora_tetrasperma_FGSC_2509,11177,Fungi,Fungi
+367110,Neurospora_crassa_OR74A,Neurospora_crassa_OR74A,9759,Fungi,Fungi
+578455,Thielavia_terrestris_NRRL_8126,Thielavia_terrestris_NRRL_8126,9760,Fungi,Fungi
+573729,Thermothelomyces_thermophila_ATCC_42464,Thermothelomyces_thermophila_ATCC_42464,9079,Fungi,Fungi
+759272,Chaetomium_thermophilum_var._thermophilum_DSM_1495,Chaetomium_thermophilum_var._thermophilum_DSM_1495,7183,Fungi,Fungi
+306901,Chaetomium_globosum_CBS_148.51,Chaetomium_globosum_CBS_148.51,11042,Fungi,Fungi
+100816,Madurella_mycetomatis,Madurella_mycetomatis,9733,Fungi,Fungi
+1573173,Colletotrichum_incanum,Colletotrichum_incanum,12795,Fungi,Fungi
+1445577,Colletotrichum_fioriniae_PJ7,Colletotrichum_fioriniae_PJ7,13759,Fungi,Fungi
+1237896,Colletotrichum_gloeosporioides_Cg-14,Colletotrichum_gloeosporioides_Cg-14,16388,Fungi,Fungi
+1213857,Colletotrichum_orbiculare_MAFF_240422,Colletotrichum_orbiculare_MAFF_240422,13346,Fungi,Fungi
+1209931,Colletotrichum_salicis,Colletotrichum_salicis,13783,Fungi,Fungi
+1209926,Colletotrichum_orchidophilum,Colletotrichum_orchidophilum,14495,Fungi,Fungi
+1173701,Colletotrichum_sublineola,Colletotrichum_sublineola,12697,Fungi,Fungi
+759273,Colletotrichum_higginsianum_IMI_349063,Colletotrichum_higginsianum_IMI_349063,16110,Fungi,Fungi
+708197,Colletotrichum_tofieldiae,Colletotrichum_tofieldiae,12499,Fungi,Fungi
+708187,Colletotrichum_chlorophyti,Colletotrichum_chlorophyti,10302,Fungi,Fungi
+703756,Colletotrichum_simmondsii,Colletotrichum_simmondsii,13884,Fungi,Fungi
+645133,Colletotrichum_graminicola_M1.001,Colletotrichum_graminicola_M1.001,12019,Fungi,Fungi
+526221,Verticillium_alfalfae_VaMs.102,Verticillium_alfalfae_VaMs.102,10233,Fungi,Fungi
+498257,Verticillium_dahliae_VdLs.17,Verticillium_dahliae_VdLs.17,10530,Fungi,Fungi
+100787,Verticillium_longisporum,Verticillium_longisporum,20580,Fungi,Fungi
+1287681,Eutypa_lata_UCREL1,Eutypa_lata_UCREL1,11684,Fungi,Fungi
+1229662,Pestalotiopsis_fici_W106-1,Pestalotiopsis_fici_W106-1,15412,Fungi,Fungi
+1141098,Pseudomassariella_vexata,Pseudomassariella_vexata,12557,Fungi,Fungi
+196109,Microdochium_bolleyi,Microdochium_bolleyi,13164,Fungi,Fungi
+77044,Rosellinia_necatrix,Rosellinia_necatrix,12440,Fungi,Fungi
+563466,Scedosporium_apiospermum,Scedosporium_apiospermum,8374,Fungi,Fungi
+1035309,Ceratocystis_fimbriata_CBS_114723,Ceratocystis_fimbriata_CBS_114723,7264,Fungi,Fungi
+88771,Ceratocystis_platani,Ceratocystis_platani,5620,Fungi,Fungi
+72032,Thielaviopsis_punctulata,Thielaviopsis_punctulata,5254,Fungi,Fungi
+1283842,Stachybotrys_chartarum_IBT_40288,Stachybotrys_chartarum_IBT_40288,11359,Fungi,Fungi
+1283841,Stachybotrys_chlorohalonata_IBT_40285,Stachybotrys_chlorohalonata_IBT_40285,10676,Fungi,Fungi
+1159556,Ustilaginoidea_virens,Ustilaginoidea_virens,8421,Fungi,Fungi
+857340,Acremonium_chrysogenum_ATCC_11550,Acremonium_chrysogenum_ATCC_11550,8899,Fungi,Fungi
+1531966,Torrubiella_hemipterigena,Torrubiella_hemipterigena,10771,Fungi,Fungi
+1380566,Pochonia_chlamydosporia_170,Pochonia_chlamydosporia_170,14142,Fungi,Fungi
+1111077,Claviceps_purpurea_20.1,Claviceps_purpurea_20.1,8814,Fungi,Fungi
+1081109,Moelleriella_libera_RCEF_2490,Moelleriella_libera_RCEF_2490,8458,Fungi,Fungi
+1291518,Metarhizium_anisopliae_BRIP_53293,Metarhizium_anisopliae_BRIP_53293,11404,Fungi,Fungi
+1276143,Metarhizium_majus_ARSEF_297,Metarhizium_majus_ARSEF_297,11394,Fungi,Fungi
+1276136,Metarhizium_guizhouense_ARSEF_977,Metarhizium_guizhouense_ARSEF_977,11727,Fungi,Fungi
+1081103,Metarhizium_album_ARSEF_1941,Metarhizium_album_ARSEF_1941,8389,Fungi,Fungi
+655844,Metarhizium_robertsii_ARSEF_23,Metarhizium_robertsii_ARSEF_23,11684,Fungi,Fungi
+655827,Metarhizium_acridum_CQMa_102,Metarhizium_acridum_CQMa_102,9830,Fungi,Fungi
+1081108,Cordyceps_confragosa_RCEF_1005,Cordyceps_confragosa_RCEF_1005,11019,Fungi,Fungi
+1081104,Cordyceps_fumosorosea_ARSEF_2679,Cordyceps_fumosorosea_ARSEF_2679,10050,Fungi,Fungi
+983644,Cordyceps_militaris_CM01,Cordyceps_militaris_CM01,9651,Fungi,Fungi
+1245745,Beauveria_bassiana_D1-5,Beauveria_bassiana_D1-5,11840,Fungi,Fungi
+1163406,Tolypocladium_ophioglossoides_CBS_100239,Tolypocladium_ophioglossoides_CBS_100239,9153,Fungi,Fungi
+1043627,Hirsutella_minnesotensis_3608,Hirsutella_minnesotensis_3608,9072,Fungi,Fungi
+1399860,Ophiocordyceps_australis,Ophiocordyceps_australis,8168,Fungi,Fungi
+911162,Ophiocordyceps_sinensis_CO18,Ophiocordyceps_sinensis_CO18,6968,Fungi,Fungi
+268505,Ophiocordyceps_unilateralis,Ophiocordyceps_unilateralis,8572,Fungi,Fungi
+98403,Drechmeria_coniospora,Drechmeria_coniospora,8231,Fungi,Fungi
+33203,Purpureocillium_lilacinum,Purpureocillium_lilacinum,11750,Fungi,Fungi
+150374,Escovopsis_weberi,Escovopsis_weberi,6869,Fungi,Fungi
+858221,Trichoderma_parareesei,Trichoderma_parareesei,9061,Fungi,Fungi
+452589,Trichoderma_atroviride_IMI_206040,Trichoderma_atroviride_IMI_206040,11770,Fungi,Fungi
+431241,Trichoderma_reesei_QM6a,Trichoderma_reesei_QM6a,9112,Fungi,Fungi
+413071,Trichoderma_virens_Gv29-8,Trichoderma_virens_Gv29-8,12383,Fungi,Fungi
+398673,Trichoderma_gamsii,Trichoderma_gamsii,11178,Fungi,Fungi
+5544,Trichoderma_harzianum,Trichoderma_harzianum,11497,Fungi,Fungi
+78410,Neonectria_ditissima,Neonectria_ditissima,12683,Fungi,Fungi
+1279085,Fusarium_fujikuroi_IMI_58289,Fusarium_fujikuroi_IMI_58289,14792,Fungi,Fungi
+660122,[Nectria]_haematococca_mpVI_77-13-4,[Nectria]_haematococca_mpVI_77-13-4,15709,Fungi,Fungi
+334819,Fusarium_verticillioides_7600,Fusarium_verticillioides_7600,15889,Fungi,Fungi
+229533,Fusarium_graminearum_PH-1,Fusarium_graminearum_PH-1,14160,Fungi,Fungi
+179993,Fusarium_langsethiae,Fusarium_langsethiae,11939,Fungi,Fungi
+36050,Fusarium_poae,Fusarium_poae,14048,Fungi,Fungi
+1089458,Fusarium_oxysporum_f._sp._raphani_54005,Fusarium_oxysporum_f._sp._raphani_54005,19288,Fungi,Fungi
+1168221,Coniosporium_apollinis_CBS_100218,Coniosporium_apollinis_CBS_100218,9306,Fungi,Fungi
+1043005,Aureobasidium_subglaciale_EXF-2481,Aureobasidium_subglaciale_EXF-2481,10792,Fungi,Fungi
+1043004,Aureobasidium_namibiae_CBS_147.97,Aureobasidium_namibiae_CBS_147.97,10258,Fungi,Fungi
+1043003,Aureobasidium_melanogenum_CBS_110374,Aureobasidium_melanogenum_CBS_110374,10583,Fungi,Fungi
+1043002,Aureobasidium_pullulans_EXF-150,Aureobasidium_pullulans_EXF-150,11844,Fungi,Fungi
+253628,Verruconis_gallopava,Verruconis_gallopava,9813,Fungi,Fungi
+1287680,Neofusicoccum_parvum_UCRNP2,Neofusicoccum_parvum_UCRNP2,10365,Fungi,Fungi
+1126212,Macrophomina_phaseolina_MS6,Macrophomina_phaseolina_MS6,13801,Fungi,Fungi
+420778,Diplodia_seriata,Diplodia_seriata,9342,Fungi,Fungi
+236234,Diplodia_corticola,Diplodia_corticola,10836,Fungi,Fungi
+1507870,Rachicladosporium_antarcticum,Rachicladosporium_antarcticum,18598,Fungi,Fungi
+766039,Acidomyces_richmondensis_BFW,Acidomyces_richmondensis_BFW,11098,Fungi,Fungi
+1157616,Hortaea_werneckii_EXF-2000,Hortaea_werneckii_EXF-2000,15464,Fungi,Fungi
+717646,Baudoinia_panamericana_UAMH_10762,Baudoinia_panamericana_UAMH_10762,10508,Fungi,Fungi
+692275,Sphaerulina_musiva_SO2202,Sphaerulina_musiva_SO2202,10154,Fungi,Fungi
+675120,Dothistroma_septosporum_NZE10,Dothistroma_septosporum_NZE10,12399,Fungi,Fungi
+1047168,Zymoseptoria_brevis,Zymoseptoria_brevis,10566,Fungi,Fungi
+1276538,Zymoseptoria_tritici_ST99CH_3D7,Zymoseptoria_tritici_ST99CH_3D7,11722,Fungi,Fungi
+321146,Mycosphaerella_eumusae,Mycosphaerella_eumusae,10939,Fungi,Fungi
+383855,Pseudocercospora_fijiensis_CIRAD86,Pseudocercospora_fijiensis_CIRAD86,13043,Fungi,Fungi
+113226,Pseudocercospora_musae,Pseudocercospora_musae,10380,Fungi,Fungi
+112498,Ramularia_collo-cygni,Ramularia_collo-cygni,11501,Fungi,Fungi
+1460663,Paraphaeosphaeria_sporulosa,Paraphaeosphaeria_sporulosa,14732,Fungi,Fungi
+1231657,Clohesyomyces_aquaticus,Clohesyomyces_aquaticus,15806,Fungi,Fungi
+985895,Leptosphaeria_maculans_JN3,Leptosphaeria_maculans_JN3,12608,Fungi,Fungi
+765868,Stagonospora_sp._SRC1lsM3a,Stagonospora_sp._SRC1lsM3a,14420,Fungi,Fungi
+765867,Pyrenochaeta_sp._DS3sAY3a,Pyrenochaeta_sp._DS3sAY3a,14984,Fungi,Fungi
+321614,Parastagonospora_nodorum_SN15,Parastagonospora_nodorum_SN15,15998,Fungi,Fungi
+671987,Exserohilum_turcica_Et28A,Exserohilum_turcica_Et28A,11687,Fungi,Fungi
+930090,Bipolaris_oryzae_ATCC_44560,Bipolaris_oryzae_ATCC_44560,12000,Fungi,Fungi
+930089,Bipolaris_zeicola_26-R-13,Bipolaris_zeicola_26-R-13,12851,Fungi,Fungi
+701091,Bipolaris_maydis_C5,Bipolaris_maydis_C5,12852,Fungi,Fungi
+665912,Bipolaris_sorokiniana_ND90Pr,Bipolaris_sorokiniana_ND90Pr,12174,Fungi,Fungi
+861557,Pyrenophora_teres_f._teres_0-1,Pyrenophora_teres_f._teres_0-1,11705,Fungi,Fungi
+426418,Pyrenophora_tritici-repentis_Pt-1C-BFP,Pyrenophora_tritici-repentis_Pt-1C-BFP,12062,Fungi,Fungi
+183478,Stemphylium_lycopersici,Stemphylium_lycopersici,8997,Fungi,Fungi
+5599,Alternaria_alternata,Alternaria_alternata,13463,Fungi,Fungi
+5454,Ascochyta_rabiei,Ascochyta_rabiei,10558,Fungi,Fungi
+1263415,Endocarpon_pusillum_Z07020,Endocarpon_pusillum_Z07020,9228,Fungi,Fungi
+158046,Phaeomoniella_chlamydospora,Phaeomoniella_chlamydospora,6907,Fungi,Fungi
+1215338,Trichophyton_interdigitale_MR816,Trichophyton_interdigitale_MR816,7993,Fungi,Fungi
+663331,Trichophyton_benhamiae_CBS_112371,Trichophyton_benhamiae_CBS_112371,7976,Fungi,Fungi
+559882,Trichophyton_equinum_CBS_127.97,Trichophyton_equinum_CBS_127.97,8676,Fungi,Fungi
+559305,Trichophyton_rubrum_CBS_118892,Trichophyton_rubrum_CBS_118892,8616,Fungi,Fungi
+554155,Microsporum_canis_CBS_113480,Microsporum_canis_CBS_113480,8764,Fungi,Fungi
+535722,Nannizzia_gypsea_CBS_118893,Nannizzia_gypsea_CBS_118893,8921,Fungi,Fungi
+502780,Paracoccidioides_brasiliensis_Pb18,Paracoccidioides_brasiliensis_Pb18,8399,Fungi,Fungi
+502779,Paracoccidioides_lutzii_Pb01,Paracoccidioides_lutzii_Pb01,8811,Fungi,Fungi
+336963,Uncinocarpus_reesii_1704,Uncinocarpus_reesii_1704,7760,Fungi,Fungi
+443226,Coccidioides_posadasii_str._Silveira,Coccidioides_posadasii_str._Silveira,10209,Fungi,Fungi
+396776,Coccidioides_immitis_H538.4,Coccidioides_immitis_H538.4,10535,Fungi,Fungi
+1447883,Polytolypa_hystricis_UAMH7299,Polytolypa_hystricis_UAMH7299,9934,Fungi,Fungi
+1447875,Helicocarpus_griseus_UAMH5409,Helicocarpus_griseus_UAMH5409,10216,Fungi,Fungi
+1447872,Emergomyces_pasteuriana_Ep9510,Emergomyces_pasteuriana_Ep9510,8944,Fungi,Fungi
+559298,Blastomyces_gilchristii_SLH14081,Blastomyces_gilchristii_SLH14081,9690,Fungi,Fungi
+559297,Blastomyces_dermatitidis_ER-3,Blastomyces_dermatitidis_ER-3,9745,Fungi,Fungi
+544712,Histoplasma_capsulatum_H143,Histoplasma_capsulatum_H143,9545,Fungi,Fungi
+1658172,Emmonsia_sp._CAC-2015a,Emmonsia_sp._CAC-2015a,8745,Fungi,Fungi
+1246674,Emmonsia_parva_UAMH_139,Emmonsia_parva_UAMH_139,8561,Fungi,Fungi
+1247875,Emmonsia_crescens_UAMH_3008,Emmonsia_crescens_UAMH_3008,9444,Fungi,Fungi
+1220924,Cyphellophora_europaea_CBS_101466,Cyphellophora_europaea_CBS_101466,11090,Fungi,Fungi
+1442369,Rhinocladiella_mackenziei_CBS_650.93,Rhinocladiella_mackenziei_CBS_650.93,11378,Fungi,Fungi
+1442371,Fonsecaea_multimorphosa_CBS_102226,Fonsecaea_multimorphosa_CBS_102226,12368,Fungi,Fungi
+1442368,Fonsecaea_pedrosoi_CBS_271.37,Fonsecaea_pedrosoi_CBS_271.37,12525,Fungi,Fungi
+1367422,Fonsecaea_erecta,Fonsecaea_erecta,12089,Fungi,Fungi
+1182542,Capronia_epimyces_CBS_606.96,Capronia_epimyces_CBS_606.96,10469,Fungi,Fungi
+1182541,Capronia_coronata_CBS_617.96,Capronia_coronata_CBS_617.96,9230,Fungi,Fungi
+1182545,Exophiala_aquamarina_CBS_119918,Exophiala_aquamarina_CBS_119918,13118,Fungi,Fungi
+1016849,Exophiala_sideris,Exophiala_sideris,10191,Fungi,Fungi
+858893,Exophiala_dermatitidis_NIH/UT8656,Exophiala_dermatitidis_NIH/UT8656,9285,Fungi,Fungi
+348802,Exophiala_xenobiotica,Exophiala_xenobiotica,12019,Fungi,Fungi
+215243,Exophiala_oligosperma,Exophiala_oligosperma,11880,Fungi,Fungi
+212818,Exophiala_mesophila,Exophiala_mesophila,9181,Fungi,Fungi
+91928,Exophiala_spinifera,Exophiala_spinifera,12047,Fungi,Fungi
+1182544,Cladophialophora_yegresii_CBS_114405,Cladophialophora_yegresii_CBS_114405,10118,Fungi,Fungi
+1182543,Cladophialophora_psammophila_CBS_110553,Cladophialophora_psammophila_CBS_110553,13417,Fungi,Fungi
+569365,Cladophialophora_immunda,Cladophialophora_immunda,12829,Fungi,Fungi
+86049,Cladophialophora_carrionii,Cladophialophora_carrionii,11181,Fungi,Fungi
+1664694,Phialophora_attae,Phialophora_attae,11848,Fungi,Fungi
+5601,Phialophora_americana,Phialophora_americana,10919,Fungi,Fungi
+1356009,Byssochlamys_spectabilis_No._5,Byssochlamys_spectabilis_No._5,8877,Fungi,Fungi
+1408163,Rasamsonia_emersonii_CBS_393.64,Rasamsonia_emersonii_CBS_393.64,9842,Fungi,Fungi
+1441469,Talaromyces_atroroseus,Talaromyces_atroroseus,9520,Fungi,Fungi
+441960,Talaromyces_marneffei_ATCC_18224,Talaromyces_marneffei_ATCC_18224,10028,Fungi,Fungi
+441959,Talaromyces_stipitatus_ATCC_10500,Talaromyces_stipitatus_ATCC_10500,12468,Fungi,Fungi
+28573,Talaromyces_islandicus,Talaromyces_islandicus,9927,Fungi,Fungi
+1073090,Penicilliopsis_zonata_CBS_506.65,Penicilliopsis_zonata_CBS_506.65,9869,Fungi,Fungi
+1835702,Penicillium_arizonense,Penicillium_arizonense,12121,Fungi,Fungi
+1429867,Penicillium_camemberti_FM_013,Penicillium_camemberti_FM_013,14390,Fungi,Fungi
+1365484,Penicillium_roqueforti_FM164,Penicillium_roqueforti_FM164,12315,Fungi,Fungi
+1316194,Penicillium_subrubescens,Penicillium_subrubescens,14038,Fungi,Fungi
+1170229,Penicillium_digitatum_PHI26,Penicillium_digitatum_PHI26,9101,Fungi,Fungi
+933388,Penicillium_oxalicum_114-2,Penicillium_oxalicum_114-2,9977,Fungi,Fungi
+500485,Penicillium_rubens_Wisconsin_54-1255,Penicillium_rubens_Wisconsin_54-1255,12788,Fungi,Fungi
+416450,Penicillium_antarcticum,Penicillium_antarcticum,11372,Fungi,Fungi
+303698,Penicillium_steckii,Penicillium_steckii,10355,Fungi,Fungi
+290292,Penicillium_occitanis,Penicillium_occitanis,11231,Fungi,Fungi
+254877,Penicillium_flavigenum,Penicillium_flavigenum,10875,Fungi,Fungi
+229535,Penicillium_nordicum,Penicillium_nordicum,12938,Fungi,Fungi
+104259,Penicillium_brasilianum,Penicillium_brasilianum,11426,Fungi,Fungi
+69771,Penicillium_decumbens,Penicillium_decumbens,7142,Fungi,Fungi
+60175,Penicillium_nalgiovense,Penicillium_nalgiovense,11728,Fungi,Fungi
+60172,Penicillium_solitum,Penicillium_solitum,11867,Fungi,Fungi
+60169,Penicillium_polonicum,Penicillium_polonicum,10627,Fungi,Fungi
+48697,Penicillium_freii,Penicillium_freii,11722,Fungi,Fungi
+40296,Penicillium_italicum,Penicillium_italicum,9993,Fungi,Fungi
+36646,Penicillium_coprophilum,Penicillium_coprophilum,8993,Fungi,Fungi
+29845,Penicillium_vulpinum,Penicillium_vulpinum,10245,Fungi,Fungi
+27334,Penicillium_expansum,Penicillium_expansum,11060,Fungi,Fungi
+5078,Penicillium_griseofulvum,Penicillium_griseofulvum,9628,Fungi,Fungi
+1509407,Aspergillus_nomius_NRRL_13137,Aspergillus_nomius_NRRL_13137,11914,Fungi,Fungi
+1403190,Aspergillus_parasiticus_SU-1,Aspergillus_parasiticus_SU-1,8651,Fungi,Fungi
+1388766,Aspergillus_ruber_CBS_135680,Aspergillus_ruber_CBS_135680,10053,Fungi,Fungi
+1245748,Aspergillus_turcosus,Aspergillus_turcosus,9877,Fungi,Fungi
+1160497,Aspergillus_glaucus_CBS_516.65,Aspergillus_glaucus_CBS_516.65,11244,Fungi,Fungi
+1073089,Aspergillus_wentii_DTO_134E9,Aspergillus_wentii_DTO_134E9,12389,Fungi,Fungi
+1069201,Aspergillus_luchuensis,Aspergillus_luchuensis,12920,Fungi,Fungi
+1036612,Aspergillus_sydowii_CBS_593.65,Aspergillus_sydowii_CBS_593.65,13568,Fungi,Fungi
+1036611,Aspergillus_versicolor_CBS_583.65,Aspergillus_versicolor_CBS_583.65,13222,Fungi,Fungi
+1033177,Aspergillus_kawachii_IFO_4308,Aspergillus_kawachii_IFO_4308,11488,Fungi,Fungi
+767770,Aspergillus_tubingensis_CBS_134.48,Aspergillus_tubingensis_CBS_134.48,12318,Fungi,Fungi
+767769,Aspergillus_brasiliensis_CBS_101740,Aspergillus_brasiliensis_CBS_101740,12981,Fungi,Fungi
+690307,Aspergillus_aculeatus_ATCC_16872,Aspergillus_aculeatus_ATCC_16872,10839,Fungi,Fungi
+602072,Aspergillus_carbonarius_ITEM_5010,Aspergillus_carbonarius_ITEM_5010,11034,Fungi,Fungi
+573508,Aspergillus_cristatus,Aspergillus_cristatus,10115,Fungi,Fungi
+454130,Aspergillus_calidoustus,Aspergillus_calidoustus,15115,Fungi,Fungi
+344612,Aspergillus_clavatus_NRRL_1,Aspergillus_clavatus_NRRL_1,9140,Fungi,Fungi
+341663,Aspergillus_terreus_NIH2624,Aspergillus_terreus_NIH2624,10417,Fungi,Fungi
+332952,Aspergillus_flavus_NRRL3357,Aspergillus_flavus_NRRL3357,13500,Fungi,Fungi
+331117,Aspergillus_fischeri_NRRL_181,Aspergillus_fischeri_NRRL_181,10414,Fungi,Fungi
+330879,Aspergillus_fumigatus_Af293,Aspergillus_fumigatus_Af293,9648,Fungi,Fungi
+308745,Aspergillus_rambellii,Aspergillus_rambellii,7761,Fungi,Fungi
+293939,Aspergillus_lentulus,Aspergillus_lentulus,9664,Fungi,Fungi
+227321,Aspergillus_nidulans_FGSC_A4,Aspergillus_nidulans_FGSC_A4,10556,Fungi,Fungi
+109264,Aspergillus_bombycis,Aspergillus_bombycis,12265,Fungi,Fungi
+91492,Aspergillus_udagawae,Aspergillus_udagawae,9999,Fungi,Fungi
+41047,Aspergillus_thermomutatus,Aspergillus_thermomutatus,10624,Fungi,Fungi
+510516,Aspergillus_oryzae_RIB40,Aspergillus_oryzae_RIB40,12070,Fungi,Fungi
+425011,Aspergillus_niger_CBS_513.88,Aspergillus_niger_CBS_513.88,14068,Fungi,Fungi
+1382522,Kuraishia_capsulata_CBS_1993,Kuraishia_capsulata_CBS_1993,6027,Fungi,Fungi
+1344418,Ascoidea_rubescens_DSM_1968,Ascoidea_rubescens_DSM_1968,6733,Fungi,Fungi
+857566,Nadsonia_fulvescens_var._elongata_DSM_6958,Nadsonia_fulvescens_var._elongata_DSM_6958,5635,Fungi,Fungi
+796027,Sugiyamaella_lignohabitans,Sugiyamaella_lignohabitans,5131,Fungi,Fungi
+767744,Tortispora_caseinolytica_NRRL_Y-17796,Tortispora_caseinolytica_NRRL_Y-17796,4656,Fungi,Fungi
+675824,Lipomyces_starkeyi_NRRL_Y-11557,Lipomyces_starkeyi_NRRL_Y-11557,8135,Fungi,Fungi
+284591,Yarrowia_lipolytica_CLIB122,Yarrowia_lipolytica_CLIB122,6448,Fungi,Fungi
+984487,Suhomyces_tanzawaensis_NRRL_Y-17324,Suhomyces_tanzawaensis_NRRL_Y-17324,5881,Fungi,Fungi
+984486,Babjeviella_inositovora_NRRL_Y-12698,Babjeviella_inositovora_NRRL_Y-12698,6393,Fungi,Fungi
+984485,Hyphopichia_burtonii_NRRL_Y-1933,Hyphopichia_burtonii_NRRL_Y-1933,5993,Fungi,Fungi
+619300,Spathaspora_passalidarum_NRRL_Y-27907,Spathaspora_passalidarum_NRRL_Y-27907,5973,Fungi,Fungi
+590646,[Candida]_tenuis_ATCC_10573,[Candida]_tenuis_ATCC_10573,5540,Fungi,Fungi
+559304,Millerozyma_farinosa_CBS_7064,Millerozyma_farinosa_CBS_7064,8851,Fungi,Fungi
+379508,Lodderomyces_elongisporus_NRRL_YB-4239,Lodderomyces_elongisporus_NRRL_YB-4239,5779,Fungi,Fungi
+322104,Scheffersomyces_stipitis_CBS_6054,Scheffersomyces_stipitis_CBS_6054,5797,Fungi,Fungi
+294746,Meyerozyma_guilliermondii_ATCC_6260,Meyerozyma_guilliermondii_ATCC_6260,5919,Fungi,Fungi
+284592,Debaryomyces_hansenii_CBS767,Debaryomyces_hansenii_CBS767,6284,Fungi,Fungi
+1245528,Candida_maltosa_Xu316,Candida_maltosa_Xu316,5976,Fungi,Fungi
+578454,Candida_parapsilosis_CDC317,Candida_parapsilosis_CDC317,5777,Fungi,Fungi
+294747,Candida_tropicalis_MYA-3404,Candida_tropicalis_MYA-3404,6226,Fungi,Fungi
+237561,Candida_albicans_SC5314,Candida_albicans_SC5314,6035,Fungi,Fungi
+869754,Metschnikowia_bicuspidata_var._bicuspidata_NRRL_YB-4993,Metschnikowia_bicuspidata_var._bicuspidata_NRRL_YB-4993,5826,Fungi,Fungi
+498019,[Candida]_auris,[Candida]_auris,5407,Fungi,Fungi
+306902,Clavispora_lusitaniae_ATCC_42720,Clavispora_lusitaniae_ATCC_42720,5932,Fungi,Fungi
+45354,[Candida]_intermedia,[Candida]_intermedia,5921,Fungi,Fungi
+29833,Hanseniaspora_uvarum,Hanseniaspora_uvarum,4059,Fungi,Fungi
+766949,Hanseniaspora_valbyensis_NRRL_Y-1626,Hanseniaspora_valbyensis_NRRL_Y-1626,4754,Fungi,Fungi
+211096,Hanseniaspora_opuntiae,Hanseniaspora_opuntiae,4166,Fungi,Fungi
+56408,Hanseniaspora_osmophila,Hanseniaspora_osmophila,4653,Fungi,Fungi
+1076872,Torulaspora_delbrueckii_CBS_1146,Torulaspora_delbrueckii_CBS_1146,4966,Fungi,Fungi
+1789683,Kazachstania_saulgeensis,Kazachstania_saulgeensis,5290,Fungi,Fungi
+1071383,Kazachstania_naganishii_CBS_8797,Kazachstania_naganishii_CBS_8797,5301,Fungi,Fungi
+1071382,Kazachstania_africana_CBS_2517,Kazachstania_africana_CBS_2517,5354,Fungi,Fungi
+1071381,Tetrapisispora_phaffii_CBS_4417,Tetrapisispora_phaffii_CBS_4417,5238,Fungi,Fungi
+1071380,Tetrapisispora_blattae_CBS_6284,Tetrapisispora_blattae_CBS_6284,5385,Fungi,Fungi
+1071378,Naumovozyma_dairenensis_CBS_421,Naumovozyma_dairenensis_CBS_421,5523,Fungi,Fungi
+1064592,Naumovozyma_castellii_CBS_4309,Naumovozyma_castellii_CBS_4309,5565,Fungi,Fungi
+669874,Pachysolen_tannophilus_NRRL_Y-2460,Pachysolen_tannophilus_NRRL_Y-2460,5643,Fungi,Fungi
+1333698,Zygosaccharomyces_bailii_CLIB_213,Zygosaccharomyces_bailii_CLIB_213,863,Fungi,Fungi
+559307,Zygosaccharomyces_rouxii_CBS_732,Zygosaccharomyces_rouxii_CBS_732,4987,Fungi,Fungi
+436907,Vanderwaltozyma_polyspora_DSM_70294,Vanderwaltozyma_polyspora_DSM_70294,5314,Fungi,Fungi
+931890,Eremothecium_cymbalariae_DBVPG#7215,Eremothecium_cymbalariae_DBVPG#7215,4429,Fungi,Fungi
+284811,Eremothecium_gossypii_ATCC_10895,Eremothecium_gossypii_ATCC_10895,4758,Fungi,Fungi
+284593,[Candida]_glabrata_CBS_138,[Candida]_glabrata_CBS_138,5200,Fungi,Fungi
+1003335,Kluyveromyces_marxianus_DMKU3-1042,Kluyveromyces_marxianus_DMKU3-1042,4925,Fungi,Fungi
+284590,Kluyveromyces_lactis_NRRL_Y-1140,Kluyveromyces_lactis_NRRL_Y-1140,5071,Fungi,Fungi
+1160507,Saccharomyces_arboricola_H-6,Saccharomyces_arboricola_H-6,3653,Fungi,Fungi
+1095631,Saccharomyces_cerevisiae_x_Saccharomyces_kudriavzevii_VIN7,Saccharomyces_cerevisiae_x_Saccharomyces_kudriavzevii_VIN7,9076,Fungi,Fungi
+226230,Saccharomyces_kudriavzevii_IFO_1802,Saccharomyces_kudriavzevii_IFO_1802,3745,Fungi,Fungi
+1266666,Lachancea_nothofagi_CBS_11611,Lachancea_nothofagi_CBS_11611,5149,Fungi,Fungi
+1266660,Lachancea_dasiensis_CBS_10888,Lachancea_dasiensis_CBS_10888,5089,Fungi,Fungi
+1245769,Lachancea_lanzarotensis,Lachancea_lanzarotensis,5055,Fungi,Fungi
+1230905,Lachancea_mirantina,Lachancea_mirantina,5053,Fungi,Fungi
+559295,Lachancea_thermotolerans_CBS_6340,Lachancea_thermotolerans_CBS_6340,5093,Fungi,Fungi
+4955,Lachancea_fermentati,Lachancea_fermentati,5229,Fungi,Fungi
+1124627,Brettanomyces_bruxellensis_AWRI1499,Brettanomyces_bruxellensis_AWRI1499,4857,Fungi,Fungi
+983967,[Candida]_arabinofermentans_NRRL_YB-2248,[Candida]_arabinofermentans_NRRL_YB-2248,5824,Fungi,Fungi
+871575,Ogataea_parapolymorpha_DL-1,Ogataea_parapolymorpha_DL-1,5338,Fungi,Fungi
+763406,Pichia_membranifaciens_NRRL_Y-2026,Pichia_membranifaciens_NRRL_Y-2026,5536,Fungi,Fungi
+4909,Pichia_kudriavzevii,Pichia_kudriavzevii,6873,Fungi,Fungi
+1206466,Wickerhamomyces_ciferrii_NRRL_Y-1031,Wickerhamomyces_ciferrii_NRRL_Y-1031,6698,Fungi,Fungi
+683960,Wickerhamomyces_anomalus_NRRL_Y-366-8,Wickerhamomyces_anomalus_NRRL_Y-366-8,6406,Fungi,Fungi
+644223,Komagataella_phaffii_GS115,Komagataella_phaffii_GS115,5073,Fungi,Fungi
+36022,Cyberlindnera_fabianii,Cyberlindnera_fabianii,5507,Fungi,Fungi
+983966,Cyberlindnera_jadinii_NRRL_Y-1542,Cyberlindnera_jadinii_NRRL_Y-1542,5994,Fungi,Fungi
+1432141,Rhizophagus_irregularis_DAOM_197198w,Rhizophagus_irregularis_DAOM_197198w,26712,Fungi,Fungi
+1314771,Mortierella_elongata_AG-77,Mortierella_elongata_AG-77,14847,Fungi,Fungi
+64571,Lobosporangium_transversale,Lobosporangium_transversale,11593,Fungi,Fungi
+1263082,Lichtheimia_corymbifera_JMRC:FSU:9682,Lichtheimia_corymbifera_JMRC:FSU:9682,12138,Fungi,Fungi
+763407,Phycomyces_blakesleeanus_NRRL_1555(-),Phycomyces_blakesleeanus_NRRL_1555(-),16154,Fungi,Fungi
+101091,Choanephora_cucurbitarum,Choanephora_cucurbitarum,11924,Fungi,Fungi
+246409,Rhizopus_delemar_RA_99-880,Rhizopus_delemar_RA_99-880,16971,Fungi,Fungi
+58291,Rhizopus_microsporus,Rhizopus_microsporus,19180,Fungi,Fungi
+1220926,Mucor_circinelloides_f._circinelloides_1006PhL,Mucor_circinelloides_f._circinelloides_1006PhL,12143,Fungi,Fungi
+91626,Mucor_ambiguus,Mucor_ambiguus,11311,Fungi,Fungi
+35722,Parasitella_parasitica,Parasitella_parasitica,13357,Fungi,Fungi
+90262,Absidia_repens,Absidia_repens,14767,Fungi,Fungi
+4829,Absidia_glauca,Absidia_glauca,14825,Fungi,Fungi
+105487,Valsa_mali,Valsa_mali,11147,Fungi,Fungi
+564608,Micromonas_pusilla_CCMP1545,Micromonas_pusilla_CCMP1545,10246,Plants,Plants
+296587,Micromonas_commoda,Micromonas_commoda,10089,Plants,Plants
+436017,Ostreococcus_lucimarinus_CCE9901,Ostreococcus_lucimarinus_CCE9901,7390,Plants,Plants
+70448,Ostreococcus_tauri,Ostreococcus_tauri,7743,Plants,Plants
+41875,Bathycoccus_prasinos,Bathycoccus_prasinos,7886,Plants,Plants
+574566,Coccomyxa_subellipsoidea_C-169,Coccomyxa_subellipsoidea_C-169,9785,Plants,Plants
+1291522,Helicosporidium_sp._ATCC_50920,Helicosporidium_sp._ATCC_50920,6029,Plants,Plants
+554065,Chlorella_variabilis,Chlorella_variabilis,9831,Plants,Plants
+3075,Auxenochlorella_protothecoides,Auxenochlorella_protothecoides,6999,Plants,Plants
+145388,Monoraphidium_neglectum,Monoraphidium_neglectum,16738,Plants,Plants
+33097,Gonium_pectorale,Gonium_pectorale,16224,Plants,Plants
+3068,Volvox_carteri_f._nagariensis,Volvox_carteri_f._nagariensis,14333,Plants,Plants
+1157962,Chlamydomonas_eustigma,Chlamydomonas_eustigma,14046,Plants,Plants
+3055,Chlamydomonas_reinhardtii,Chlamydomonas_reinhardtii,17612,Plants,Plants
+1480154,Marchantia_polymorpha_subsp._ruderalis,Marchantia_polymorpha_subsp._ruderalis,17951,Plants,Plants
+105231,Klebsormidium_nitens,Klebsormidium_nitens,16171,Plants,Plants
+88036,Selaginella_moellendorffii,Selaginella_moellendorffii,32883,Plants,Plants
+79200,Daucus_carota_subsp._sativus,Daucus_carota_subsp._sativus,31771,Plants,Plants
+56857,Macleaya_cordata,Macleaya_cordata,21697,Plants,Plants
+51240,Juglans_regia,Juglans_regia,35778,Plants,Plants
+29760,Vitis_vinifera,Vitis_vinifera,29851,Plants,Plants
+71139,Eucalyptus_grandis,Eucalyptus_grandis,36664,Plants,Plants
+22663,Punica_granatum,Punica_granatum,28977,Plants,Plants
+13333,Amborella_trichopoda,Amborella_trichopoda,27358,Plants,Plants
+214687,Musa_acuminata_subsp._malaccensis,Musa_acuminata_subsp._malaccensis,36474,Plants,Plants
+42345,Phoenix_dactylifera,Phoenix_dactylifera,25714,Plants,Plants
+29655,Zostera_marina,Zostera_marina,20358,Plants,Plants
+4615,Ananas_comosus,Ananas_comosus,23408,Plants,Plants
+888268,Dichanthelium_oligosanthes,Dichanthelium_oligosanthes,26451,Plants,Plants
+112509,Hordeum_vulgare_subsp._vulgare,Hordeum_vulgare_subsp._vulgare,35918,Plants,Plants
+77586,Leersia_perrieri,Leersia_perrieri,29035,Plants,Plants
+15368,Brachypodium_distachyon,Brachypodium_distachyon,26492,Plants,Plants
+4577,Zea_mays,Zea_mays,39442,Plants,Plants
+4572,Triticum_urartu,Triticum_urartu,33313,Plants,Plants
+4565,Triticum_aestivum,Triticum_aestivum,102256,Plants,Plants
+4558,Sorghum_bicolor,Sorghum_bicolor,33978,Plants,Plants
+4555,Setaria_italica,Setaria_italica,35700,Plants,Plants
+65489,Oryza_barthii,Oryza_barthii,34345,Plants,Plants
+40149,Oryza_meridionalis,Oryza_meridionalis,29137,Plants,Plants
+40148,Oryza_glumipatula,Oryza_glumipatula,35649,Plants,Plants
+39947,Oryza_sativa_Japonica_Group,Oryza_sativa_Japonica_Group,43569,Plants,Plants
+39946,Oryza_sativa_Indica_Group,Oryza_sativa_Indica_Group,37192,Plants,Plants
+4538,Oryza_glaberrima,Oryza_glaberrima,31807,Plants,Plants
+4537,Oryza_punctata,Oryza_punctata,31311,Plants,Plants
+4536,Oryza_nivara,Oryza_nivara,36306,Plants,Plants
+4533,Oryza_brachyantha,Oryza_brachyantha,31989,Plants,Plants
+4529,Oryza_rufipogon,Oryza_rufipogon,37110,Plants,Plants
+4432,Nelumbo_nucifera,Nelumbo_nucifera,23993,Plants,Plants
+4236,Lactuca_sativa,Lactuca_sativa,37926,Plants,Plants
+4232,Helianthus_annuus,Helianthus_annuus,51233,Plants,Plants
+429701,Handroanthus_impetiginosus,Handroanthus_impetiginosus,29726,Plants,Plants
+192259,Genlisea_aurea,Genlisea_aurea,17675,Plants,Plants
+4155,Erythranthe_guttata,Erythranthe_guttata,27703,Plants,Plants
+49451,Nicotiana_attenuata,Nicotiana_attenuata,20665,Plants,Plants
+4097,Nicotiana_tabacum,Nicotiana_tabacum,61674,Plants,Plants
+4096,Nicotiana_sylvestris,Nicotiana_sylvestris,33640,Plants,Plants
+4113,Solanum_tuberosum,Solanum_tuberosum,39133,Plants,Plants
+4081,Solanum_lycopersicum,Solanum_lycopersicum,33952,Plants,Plants
+80379,Capsicum_chinense,Capsicum_chinense,34757,Plants,Plants
+33114,Capsicum_baccatum,Capsicum_baccatum,35641,Plants,Plants
+4072,Capsicum_annuum,Capsicum_annuum,35548,Plants,Plants
+3916,Vigna_radiata_var._radiata,Vigna_radiata_var._radiata,26453,Plants,Plants
+3914,Vigna_angularis,Vigna_angularis,33730,Plants,Plants
+3885,Phaseolus_vulgaris,Phaseolus_vulgaris,27994,Plants,Plants
+3880,Medicago_truncatula,Medicago_truncatula,49964,Plants,Plants
+3871,Lupinus_angustifolius,Lupinus_angustifolius,13903,Plants,Plants
+3848,Glycine_soja,Glycine_soja,26096,Plants,Plants
+3847,Glycine_max,Glycine_max,56626,Plants,Plants
+3827,Cicer_arietinum,Cicer_arietinum,24569,Plants,Plants
+3821,Cajanus_cajan,Cajanus_cajan,47180,Plants,Plants
+3775,Cephalotus_follicularis,Cephalotus_follicularis,36277,Plants,Plants
+981085,Morus_notabilis,Morus_notabilis,26760,Plants,Plants
+3760,Prunus_persica,Prunus_persica,26842,Plants,Plants
+81985,Capsella_rubella,Capsella_rubella,26721,Plants,Plants
+72664,Eutrema_salsugineum,Eutrema_salsugineum,26426,Plants,Plants
+50452,Arabis_alpina,Arabis_alpina,21574,Plants,Plants
+109376,Brassica_oleracea_var._oleracea,Brassica_oleracea_var._oleracea,58535,Plants,Plants
+51351,Brassica_rapa_subsp._pekinensis,Brassica_rapa_subsp._pekinensis,40801,Plants,Plants
+3708,Brassica_napus,Brassica_napus,60065,Plants,Plants
+81972,Arabidopsis_lyrata_subsp._lyrata,Arabidopsis_lyrata_subsp._lyrata,32047,Plants,Plants
+3702,Arabidopsis_thaliana,Arabidopsis_thaliana,27582,Plants,Plants
+180498,Jatropha_curcas,Jatropha_curcas,27058,Plants,Plants
+3988,Ricinus_communis,Ricinus_communis,31219,Plants,Plants
+3694,Populus_trichocarpa,Populus_trichocarpa,60185,Plants,Plants
+3659,Cucumis_sativus,Cucumis_sativus,23737,Plants,Plants
+3656,Cucumis_melo,Cucumis_melo,19473,Plants,Plants
+210143,Corchorus_capsularis,Corchorus_capsularis,29085,Plants,Plants
+93759,Corchorus_olitorius,Corchorus_olitorius,35489,Plants,Plants
+3641,Theobroma_cacao,Theobroma_cacao,29150,Plants,Plants
+29730,Gossypium_raimondii,Gossypium_raimondii,37992,Plants,Plants
+29729,Gossypium_arboreum,Gossypium_arboreum,30420,Plants,Plants
+3635,Gossypium_hirsutum,Gossypium_hirsutum,60811,Plants,Plants
+3562,Spinacia_oleracea,Spinacia_oleracea,21533,Plants,Plants
+3218,Physcomitrella_patens,Physcomitrella_patens,30837,Plants,Plants
+85681,Citrus_clementina,Citrus_clementina,24934,Plants,Plants
+2711,Citrus_sinensis,Citrus_sinensis,28132,Plants,Plants
+2015173,Ooceraea_biroi,Ooceraea_biroi,16497,Protists,Protists
+2018661,Diploscapter_pachys,Diploscapter_pachys,27206,Protists,Protists
+1460289,Chrysochromulina_sp._CCMP291,Chrysochromulina_sp._CCMP291,16663,Protists,Protists
+1257118,Acanthamoeba_castellanii_str._Neff,Acanthamoeba_castellanii_str._Neff,14938,Protists,Protists
+1169540,Vitrella_brassicaformis_CCMP3155,Vitrella_brassicaformis_CCMP3155,23030,Protists,Protists
+1144522,Tritrichomonas_foetus,Tritrichomonas_foetus,24634,Protists,Protists
+905079,Guillardia_theta_CCMP2712,Guillardia_theta_CCMP2712,24567,Protists,Protists
+691883,Fonticula_alba,Fonticula_alba,5901,Protists,Protists
+1054147,Cavenderia_fasciculata_SH3,Cavenderia_fasciculata_SH3,12152,Protists,Protists
+670386,Heterostelium_album_PN500,Heterostelium_album_PN500,12351,Protists,Protists
+667725,Sphaeroforma_arctica_JP610,Sphaeroforma_arctica_JP610,18207,Protists,Protists
+595528,Capsaspora_owczarzaki_ATCC_30864,Capsaspora_owczarzaki_ATCC_30864,8738,Protists,Protists
+461836,Thecamonas_trahens_ATCC_50062,Thecamonas_trahens_ATCC_50062,10533,Protists,Protists
+423536,Perkinsus_marinus_ATCC_50983,Perkinsus_marinus_ATCC_50983,22958,Protists,Protists
+280699,Cyanidioschyzon_merolae_strain_10D,Cyanidioschyzon_merolae_strain_10D,4990,Protists,Protists
+130081,Galdieria_sulphuraria,Galdieria_sulphuraria,6595,Protists,Protists
+946362,Salpingoeca_rosetta,Salpingoeca_rosetta,11614,Protists,Protists
+81824,Monosiga_brevicollis,Monosiga_brevicollis,9188,Protists,Protists
+46433,Reticulomyxa_filosa,Reticulomyxa_filosa,39903,Protists,Protists
+44056,Aureococcus_anophagefferens,Aureococcus_anophagefferens,11501,Protists,Protists
+37360,Plasmodiophora_brassicae,Plasmodiophora_brassicae,9720,Protists,Protists
+635003,Fragilariopsis_cylindrus_CCMP1102,Fragilariopsis_cylindrus_CCMP1102,18047,Protists,Protists
+1519565,Fistulifera_solaris,Fistulifera_solaris,20301,Protists,Protists
+556484,Phaeodactylum_tricornutum_CCAP_1055/1,Phaeodactylum_tricornutum_CCAP_1055/1,10451,Protists,Protists
+159749,Thalassiosira_oceanica,Thalassiosira_oceanica,34547,Protists,Protists
+35128,Thalassiosira_pseudonana,Thalassiosira_pseudonana,11717,Protists,Protists
+478820,Blastocystis_sp._ATCC_50177/Nand_II,Blastocystis_sp._ATCC_50177/Nand_II,6377,Protists,Protists
+12968,Blastocystis_hominis,Blastocystis_hominis,5820,Protists,Protists
+5963,Stentor_coeruleus,Stentor_coeruleus,30969,Protists,Protists
+1172189,Oxytricha_trifallax,Oxytricha_trifallax,23559,Protists,Protists
+5949,Stylonychia_lemnae,Stylonychia_lemnae,20720,Protists,Protists
+857967,Ichthyophthirius_multifiliis_strain_G5,Ichthyophthirius_multifiliis_strain_G5,8049,Protists,Protists
+312017,Tetrahymena_thermophila_SB210,Tetrahymena_thermophila_SB210,26971,Protists,Protists
+266149,Pseudocohnilembus_persalinus,Pseudocohnilembus_persalinus,13175,Protists,Protists
+5888,Paramecium_tetraurelia,Paramecium_tetraurelia,39461,Protists,Protists
+1537102,Theileria_equi_strain_WA,Theileria_equi_strain_WA,5313,Protists,Protists
+869250,Theileria_orientalis_strain_Shintoku,Theileria_orientalis_strain_Shintoku,3989,Protists,Protists
+5875,Theileria_parva,Theileria_parva,4071,Protists,Protists
+5874,Theileria_annulata,Theileria_annulata,3790,Protists,Protists
+1133968,Babesia_microti_strain_RI,Babesia_microti_strain_RI,3595,Protists,Protists
+462227,Babesia_sp._Xinjiang,Babesia_sp._Xinjiang,2856,Protists,Protists
+5866,Babesia_bigemina,Babesia_bigemina,4432,Protists,Protists
+5865,Babesia_bovis,Babesia_bovis,3690,Protists,Protists
+5821,Plasmodium_berghei,Plasmodium_berghei,5060,Protists,Protists
+1237626,Plasmodium_inui_San_Antonio_1,Plasmodium_inui_San_Antonio_1,5828,Protists,Protists
+1120755,Plasmodium_cynomolgi_strain_B,Plasmodium_cynomolgi_strain_B,5713,Protists,Protists
+864142,Plasmodium_ovale_wallikeri,Plasmodium_ovale_wallikeri,8636,Protists,Protists
+647221,Plasmodium_gaboni,Plasmodium_gaboni,5197,Protists,Protists
+208452,Plasmodium_coatneyi,Plasmodium_coatneyi,5514,Protists,Protists
+126793,Plasmodium_vivax_Sal-1,Plasmodium_vivax_Sal-1,5389,Protists,Protists
+85471,Plasmodium_relictum,Plasmodium_relictum,5136,Protists,Protists
+77519,Plasmodium_gonderi,Plasmodium_gonderi,5915,Protists,Protists
+73239,Plasmodium_yoelii_yoelii,Plasmodium_yoelii_yoelii,7741,Protists,Protists
+5858,Plasmodium_malariae,Plasmodium_malariae,6339,Protists,Protists
+5857,Plasmodium_fragile,Plasmodium_fragile,5638,Protists,Protists
+5851,Plasmodium_knowlesi_strain_H,Plasmodium_knowlesi_strain_H,5100,Protists,Protists
+1036725,Plasmodium_falciparum_Tanzania_(2000708),Plasmodium_falciparum_Tanzania_(2000708),6643,Protists,Protists
+31271,Plasmodium_chabaudi_chabaudi,Plasmodium_chabaudi_chabaudi,5049,Protists,Protists
+110365,Gregarina_niphandrodes,Gregarina_niphandrodes,6341,Protists,Protists
+857276,Cryptosporidium_ubiquitum,Cryptosporidium_ubiquitum,3765,Protists,Protists
+441375,Cryptosporidium_muris_RN66,Cryptosporidium_muris_RN66,3930,Protists,Protists
+353152,Cryptosporidium_parvum_Iowa_II,Cryptosporidium_parvum_Iowa_II,3805,Protists,Protists
+572307,Neospora_caninum_Liverpool,Neospora_caninum_Liverpool,7108,Protists,Protists
+483139,Cystoisospora_suis,Cystoisospora_suis,11541,Protists,Protists
+432359,Toxoplasma_gondii_VEG,Toxoplasma_gondii_VEG,8404,Protists,Protists
+99158,Hammondia_hammondi,Hammondia_hammondi,8002,Protists,Protists
+94643,Besnoitia_besnoiti,Besnoitia_besnoiti,8036,Protists,Protists
+88456,Cyclospora_cayetanensis,Cyclospora_cayetanensis,7151,Protists,Protists
+51316,Eimeria_praecox,Eimeria_praecox,7635,Protists,Protists
+51315,Eimeria_necatrix,Eimeria_necatrix,8608,Protists,Protists
+51314,Eimeria_brunetti,Eimeria_brunetti,8711,Protists,Protists
+44415,Eimeria_mitis,Eimeria_mitis,10057,Protists,Protists
+5804,Eimeria_maxima,Eimeria_maxima,6057,Protists,Protists
+5802,Eimeria_tenella,Eimeria_tenella,8595,Protists,Protists
+5801,Eimeria_acervulina,Eimeria_acervulina,6867,Protists,Protists
+361077,Tieghemostelium_lacteum,Tieghemostelium_lacteum,10208,Protists,Protists
+44689,Dictyostelium_discoideum,Dictyostelium_discoideum,12738,Protists,Protists
+5786,Dictyostelium_purpureum,Dictyostelium_purpureum,12347,Protists,Protists
+5762,Naegleria_gruberi,Naegleria_gruberi,15634,Protists,Protists
+370355,Entamoeba_invadens_IP1,Entamoeba_invadens_IP1,9857,Protists,Protists
+5759,Entamoeba_histolytica,Entamoeba_histolytica,7959,Protists,Protists
+348837,Spironucleus_salmonicida,Spironucleus_salmonicida,8098,Protists,Protists
+184922,Giardia_lamblia_ATCC_50803,Giardia_lamblia_ATCC_50803,7154,Protists,Protists
+5722,Trichomonas_vaginalis,Trichomonas_vaginalis,50190,Protists,Protists
+1314962,Perkinsela_sp._CCAP_1560/4,Perkinsela_sp._CCAP_1560/4,4883,Protists,Protists
+75058,Bodo_saltans,Bodo_saltans,18124,Protists,Protists
+134013,Phytomonas_sp._isolate_Hart1,Phytomonas_sp._isolate_Hart1,6442,Protists,Protists
+1068625,Trypanosoma_congolense_IL3000,Trypanosoma_congolense_IL3000,5906,Protists,Protists
+1055687,Trypanosoma_vivax_Y486,Trypanosoma_vivax_Y486,3778,Protists,Protists
+429131,Trypanosoma_rangeli_SC58,Trypanosoma_rangeli_SC58,7365,Protists,Protists
+185431,Trypanosoma_brucei_brucei_TREU927,Trypanosoma_brucei_brucei_TREU927,8561,Protists,Protists
+353153,Trypanosoma_cruzi_strain_CL_Brener,Trypanosoma_cruzi_strain_CL_Brener,19242,Protists,Protists
+67003,Trypanosoma_theileri,Trypanosoma_theileri,11236,Protists,Protists
+59799,Angomonas_deanei,Angomonas_deanei,14524,Protists,Protists
+28005,Strigomonas_culicis,Strigomonas_culicis,9986,Protists,Protists
+157538,Leptomonas_pyrrhocoris,Leptomonas_pyrrhocoris,9272,Protists,Protists
+5684,Leptomonas_seymouri,Leptomonas_seymouri,8480,Protists,Protists
+929439,Leishmania_mexicana_MHOM/GT/2001/U1103,Leishmania_mexicana_MHOM/GT/2001/U1103,8044,Protists,Protists
+5671,Leishmania_infantum,Leishmania_infantum,8045,Protists,Protists
+5664,Leishmania_major,Leishmania_major,8038,Protists,Protists
+5660,Leishmania_braziliensis,Leishmania_braziliensis,8084,Protists,Protists
+2004951,Cordyceps_sp._RAO-2017,Cordyceps_sp._RAO-2017,11255,Protists,Protists
+2004952,Ophiocordyceps_camponoti-rufipedis,Ophiocordyceps_camponoti-rufipedis,7618,Protists,Protists
+1974281,Rachicladosporium_sp._CCFEE_5018,Rachicladosporium_sp._CCFEE_5018,18035,Protists,Protists
+431595,Pythium_ultimum_DAOM_BR144,Pythium_ultimum_DAOM_BR144,15121,Protists,Protists
+114742,Pythium_insidiosum,Pythium_insidiosum,14555,Protists,Protists
+1156394,Saprolegnia_diclina_VS20,Saprolegnia_diclina_VS20,17306,Protists,Protists
+695850,Saprolegnia_parasitica_CBS_223.65,Saprolegnia_parasitica_CBS_223.65,20052,Protists,Protists
+157072,Aphanomyces_invadans,Aphanomyces_invadans,15212,Protists,Protists
+112090,Aphanomyces_astaci,Aphanomyces_astaci,19020,Protists,Protists
+65357,Albugo_candida,Albugo_candida,13200,Protists,Protists
+559515,Hyaloperonospora_arabidopsidis_Emoy2,Hyaloperonospora_arabidopsidis_Emoy2,13836,Protists,Protists
+1094619,Phytophthora_sojae_strain_P6497,Phytophthora_sojae_strain_P6497,25721,Protists,Protists
+403677,Phytophthora_infestans_T30-4,Phytophthora_infestans_T30-4,17609,Protists,Protists
+164328,Phytophthora_ramorum,Phytophthora_ramorum,15349,Protists,Protists
+4795,Phytophthora_megakarya,Phytophthora_megakarya,34747,Protists,Protists
+761204,Phytophthora_parasitica_INRA-310,Phytophthora_parasitica_INRA-310,23004,Protists,Protists
+4790,Phytophthora_nicotianae,Phytophthora_nicotianae,15887,Protists,Protists
+4781,Plasmopara_halstedii,Plasmopara_halstedii,15449,Protists,Protists
+2951,Symbiodinium_microadriaticum,Symbiodinium_microadriaticum,43269,Protists,Protists
+2903,Emiliania_huxleyi,Emiliania_huxleyi,35676,Protists,Protists
+2880,Ectocarpus_siliculosus,Ectocarpus_siliculosus,16334,Protists,Protists
+72520,Nannochloropsis_gaditana,Nannochloropsis_gaditana,10493,Protists,Protists
