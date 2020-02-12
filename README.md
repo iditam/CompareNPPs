@@ -1,4 +1,4 @@
-How to use the code for testing a version of NPP
+To use the code for testing a version of NPP
 
 1. in folder NPP_data: create a sub-folder and put the npp table file inside it
 
