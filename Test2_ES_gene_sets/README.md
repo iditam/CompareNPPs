@@ -1,12 +1,3 @@
----
-title: "Test2 - ES z-score for gene sets"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 
 **snakemake_ES_with_random.smk** - a snakemake pipeline that calculates ES for a single NPP, and the ES score for multiple random gene sets. The number of random gene sets is set by the "randomTimes" variable in the config file.
 
